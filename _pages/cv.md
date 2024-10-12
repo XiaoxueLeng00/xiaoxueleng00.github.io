@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://xiaoxueleng00.github.io/files/xiaoxueleng_cv_short.pdf" width="600" height="700" type='application/pdf'> 
+<embed src="https://xiaoxueleng00.github.io/files/xiaoxueleng_cv.pdf" width="600" height="700" type='application/pdf'> 
 
 Education
 ======
