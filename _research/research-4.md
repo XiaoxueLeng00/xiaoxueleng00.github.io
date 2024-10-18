@@ -15,6 +15,8 @@ I led this project. In this project, we:
 
 My responsibility included: Reviewed relevant literature; designed experiments; collected behavioral data and neuroimaging data by using fNIRS; analyzed data by using Matlab; wrote manuscript
 
+For detailed information, please see [the paper] (https://xiaoxueleng00.github.io//publication/paper-3).
+
 Outputs:
 
 1. Leng, X., Zhu, W., Mayer, R. E., & Wang, F. (2024). The viewing perspective effect in learning from instructional videos: A replication and neuroimaging extension. <i>Learning and Instruction, 94</i>, 102004. https://doi.org/10.1016/j.learninstruc.2024.102004 
