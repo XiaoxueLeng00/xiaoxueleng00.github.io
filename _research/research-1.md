@@ -14,10 +14,10 @@ venue: 'Central China Normal University'
 Eye movement modeling examples (EMME) was an instructional technique that used an eye tracker to record the eye movements of models (usually people who are familiar with the task or learning material) as they learn or perform the task, which was then superimposed on the learning material and presented to learners for watching. EMME has been found to guide attention, convey cognitive strategies, and facilitate learning.
 
 In this project, we:
-- Investigated whether EMME can train learners to use text-picture processing strategy and compared the effectiveness of EMME and traditional verbal training on strategy training by using eye-tracking techniques;
-- Investigated whether EMME is more beneficial on guiding attention and improving learning than traditional visual cues by using eye-tracking techniques.
+- Investigated whether EMME can train learners to use text-picture processing strategy and compared the effectiveness of EMME and traditional verbal training on strategy training;
+- Investigated whether EMME was more beneficial on guiding attention and improving learning than traditional visual cues.
 
-My responsibility included: Reviewed relevant literature; designed experiments; collected and analyzed behavioral data and eye-tracking data; wrote manuscript
+I fully participated in this project.
 
 Outputs:
 
