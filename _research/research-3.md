@@ -8,13 +8,14 @@ date: 2023-01-01
 venue: 'Central China Normal University'
 ---
 
-In this project, we:
-- Investigated whether the teacher turned on webcams influenced online learning;
-- Investigated whether students turned on webcams influenced online learning;
-- Applied motion energy analysis to examine how conditions influenced on students’ motion energy;
-- Applied FaceReader to examine students’ emotions.
+I co-led this project with Wanling Zhu.
 
-My responsibility included: Reviewed relevant literature; designed experiments; collected behavioral data and students’ videos; analyzed data; reviewed and edited manuscript
+In this project, we:
+- Investigated whether students and the teacher turned on webcams influenced online learning;
+- Applied motion energy analysis to examine how students’ motion energy was influenced;
+- Applied FaceReader to examine the differences on students’ emotions.
+
+I fully participated in this project. Wanling wrote the manuscript, while I reviewed and edited it.
 
 Outputs:
 
