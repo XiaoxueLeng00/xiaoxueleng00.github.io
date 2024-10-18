@@ -1,5 +1,5 @@
 ---
-title: "Does Pedagogical Agent’s Race Have an Impact on English Learning?"
+title: "Does Pedagogical Agent’s Race/Ethnicity Have an Impact on English Learning?"
 collection: research
 category: ongoing
 permalink: /research/research-5
@@ -16,7 +16,7 @@ People held a stereotype that White people are more knowledgeable on English tha
 
 In this project, I worked with Dr. Ziyi Kuang at Shaanxi Normal University. We:
 - Investigated whether students’ stereotype towards pedagogical agents influenced their learning;
-- Investigated whether pedagogical agent’s race influenced students’ learning interest and performance.
+- Investigated whether pedagogical agent’s race/ethnicity influenced students’ learning interest and performance.
 
 A total of 101 12- and 13-year-old children learned one English course with a White or Asian PA in the AutoTutor. Results showed PA's race influenced children's feelings and learning performance.
 
