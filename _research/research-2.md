@@ -14,7 +14,7 @@ In this project, we:
 - Explored whether drawing can facilitate learning-by-teaching;
 - Explored whether instructor-provided cues and student-generated cues can facilitate learning-by-teaching.
 
-I contributed to this large project, being involved in literature review, experimental design, data collection (behavioral, eye-tracking, physiological, and fNIRS), and writing (reviewing and editing). We recruited over 600 college students in this large projects and published 6 journal articles (I was listed as the co-author in 3 articles and acknowledged in 2 articles).
+I contributed to this large project, being involved in literature review, experimental design, data collection (behavioral, eye-tracking, physiological, and fNIRS), and writing (reviewing and editing). We recruited over 600 college students in this large project and published 6 journal articles (I was listed as the co-author in 3 articles and acknowledged in 2 articles).
 
 Outputs:
 
