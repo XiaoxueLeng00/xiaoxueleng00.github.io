@@ -10,9 +10,9 @@ venue: 'Central China Normal University'
 Learning-by-teaching is a generative learning strategy in which students are asked to teach what they are learning to others.
 
 In this project, we:
-- Investigated how learning-by-teaching promotes learning and what are the boundary conditions;
-- Investigated whether drawing can facilitate learning-by-teaching;
-- Investigated whether instructor-provided cues and student-generated cues can facilitate learning-by-teaching.
+- Investigated the effectiveness and boundary conditions of learning-by-teaching;
+- Explored whether drawing can facilitate learning-by-teaching;
+- Explored whether instructor-provided cues and student-generated cues can facilitate learning-by-teaching.
 
 I contributed to this large project, being involved in literature review, experimental design, data collection (behavioral, eye-tracking, physiological, and fNIRS), and writing (reviewing and editing). We recruited over 600 college students in this large projects and published 6 journal articles (I was listed as the co-author in 3 articles and acknowledged in 2 articles).
 
