@@ -15,7 +15,7 @@ I led this project. In this project, we:
 
 My responsibility included: Reviewed relevant literature; designed experiments; collected behavioral data and neuroimaging data by using fNIRS; analyzed data by using Matlab; wrote manuscript
 
-For detailed information, please see [the paper] (https://xiaoxueleng00.github.io//publication/paper-3).
+For detailed information, please see [the paper](https://xiaoxueleng00.github.io//publication/paper-3).
 
 Outputs:
 
