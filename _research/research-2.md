@@ -14,7 +14,7 @@ In this project, we:
 - Investigated whether drawing can facilitate learning-by-teaching;
 - Investigated whether instructor-provided cues and student-generated cues can facilitate learning-by-teaching.
 
-My responsibility included: Reviewed relevant literature; designed experiments; collected behavioral, eye-tracking, physiological, and fNIRS data; reviewed and edited manuscripts
+I contributed to this large project, being involved in literature review, experimental design, data collection (behavioral, eye-tracking, physiological, and fNIRS), and writing (reviewing and editing).
 
 Outputs:
 
