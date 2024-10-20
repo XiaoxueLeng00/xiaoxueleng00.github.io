@@ -17,8 +17,6 @@ In this project, we recruited about 200 college students and investigated:
 - whether EMME can train learners to use text-picture processing strategy and compared the effectiveness of EMME and traditional verbal training on strategy training;
 - whether EMME was more beneficial on guiding attention and improving learning than traditional visual cues.
 
-I fully participated in this project.
-
 Outputs:
 
 1. Wang, F., Leng, X., Kuang, Z., & Zhao, T. Eye movement modelling examples as cues to guide attention and improve learning in short or long animations. Revised and resubmitted.
