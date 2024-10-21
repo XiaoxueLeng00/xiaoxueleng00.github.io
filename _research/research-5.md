@@ -24,5 +24,6 @@ We have finished the data analysis, and now are working on the final manuscript.
 
 My responsibilities included: Reviewed relevant literature; designed experiments; analyzed data; wrote manuscript
 
-- References:
-- Veletsianos, G. (2007). Cognitive and affective benefits of an animated pedagogical agent: Considering contextual relevance and aesthetics. <i>Journal of Educational Computing Research, 36</i>(4), 373-377
+**References**:
+
+Veletsianos, G. (2007). Cognitive and affective benefits of an animated pedagogical agent: Considering contextual relevance and aesthetics. <i>Journal of Educational Computing Research, 36</i>(4), 373-377.
