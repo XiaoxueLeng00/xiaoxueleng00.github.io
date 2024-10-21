@@ -24,5 +24,6 @@ We have finished the data analysis, and now are working on the final manuscript.
 
 My responsibilities included: Data collection and analysis, visualization, and most of writing.
 
-- References:
-- Dargue, N., Sweller, N., & Jones, M. P. (2019). When our hands help us understand: A meta-analysis into the effects of gesture on comprehension. <i>Psychological Bulletin, 145</i>(8), 765–784
+**References**:
+
+Dargue, N., Sweller, N., & Jones, M. P. (2019). When our hands help us understand: A meta-analysis into the effects of gesture on comprehension. <i>Psychological Bulletin, 145</i>(8), 765–784
