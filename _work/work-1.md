@@ -12,6 +12,5 @@ Supervised by Dr. Fuxing Wang, I worked as a research assistant from September, 
 - Conducted research projects independently and collaboratively
 - Engaged in discussions, sessions, and other academic activities
 - Collected behavioral, eye-tracking, physiological, and fNIRS data (including preschool, primary school, and undergraduate students)
-- Reviewed and edited manuscripts
 
 
