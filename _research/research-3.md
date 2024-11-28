@@ -23,4 +23,3 @@ I fully participated in this project. Wanling wrote the manuscript, while I revi
 Outputs:
 
 1. Zhu, W., Leng, X., Mayer, R. E., & Wang, F. No need for webcams with synchronous online learning. Submitted.
-2. Zhu, W., Leng, X., & Wang, F. (2023, October). <i>Can the presence of teacher and student promote online learning?.</i> The 25th National Academic Conference of Psychology, Chengdu, Sichuan, China.
