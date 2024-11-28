@@ -17,9 +17,11 @@ In this project, we recruited about 200 college students and investigated:
 1. whether EMME can train learners to use text-picture processing strategy and compared the effectiveness of EMME and traditional verbal training on strategy training;
 2. whether EMME was more beneficial on guiding attention and improving learning than traditional visual cues.
 
-For the first question, we set three conditions: visual training (EMME), verbal training, and control. Participants received two training methods or no training to read 4 slides, and then read another 12 slides using the strategy. Eye movements were recorded. Participants were tested on the final 12 slides. Results found both training methods could help students aquire a text-picture reading strategy and caused students to attend more to on-screen pictures as compared to the control group. Mediation analysis showed that increased attention to pictures was a mediator for better learning outcomes.
+For the first question, we set three conditions: visual training (EMME), verbal training, and control. Participants received two training methods or no training to read 4 slides, and then read another 12 slides using the strategy. Eye movements were recorded. Participants were tested on the final 12 slides. Results found both training methods could help students acquire a text-picture reading strategy and caused students to attend more to on-screen pictures as compared to the control group. Mediation analysis showed that increased attention to pictures was a mediator for better learning outcomes. This work was published in <i>British Journal of Educational Technology</i>.
 
-For the second question, we compared the effects of EMME, cue, and control conditions in two experiments. Participants watched a video with EMME, cue, or none. Eye movements were recorded. Results showed that both EMME and cues can improve learning. There was no difference on learning outcomes between them, but eye movement data showed that EMME was better on guiding attention (reflected by fixation time on relevant elements) and conveying strategies (reflected by intersubject correlation of gaze positions).
+For the second question, we compared the effects of EMME, cue, and control conditions in two experiments. Participants watched a video with EMME, cue, or none. Eye movements were recorded. Results showed that both EMME and cues can improve learning. There was no difference on learning outcomes between them, but eye movement data showed that EMME was better on guiding attention (reflected by fixation time on relevant elements) and conveying strategies (reflected by intersubject correlation of gaze positions). This work was published in <i>Journal of Computer Assisted Learning</i>.
+
+
 
 Outputs:
 
