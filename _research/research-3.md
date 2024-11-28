@@ -8,12 +8,15 @@ date: 2023-01-01
 venue: 'Central China Normal University'
 ---
 
+When an instructor is delivering a synchronous online lecture using slides, an important consideration is whether to turn on the instructor's camera (i.e., creating instructor presence) and the student's camera (i.e., creating student presence). 
+
 I co-led this project with Wanling Zhu.
 
 In this project, we:
-- Investigated whether students and the teacher turned on webcams influenced online learning;
-- Applied motion energy analysis to examine how students’ motion energy was influenced;
-- Applied FaceReader to examine the differences on students’ emotions.
+- Investigated the impact of teachers’ and students’ webcam use on synchronous online learning;
+- Applied motion energy analysis to examine students' movement and utilized FaceReader to assess emotional responses.
+
+A 2 × 2 within-subject design was used in which instructor presence (webcam on vs. webcam off) and student presence (webcam on vs. webcam off) were manipulated. A total of 33 college students came to a simulated real online teaching laboratory for four consecutive days to learn different English vocabulary words, with a different condition on each day. Findings suggested that turning off the instructor's webcams led to higher test scores, less social presence and more head movement (indicating less stress). Turning off the students’ webcams did not affect test scores but increased happiness and decreased mental effort and confidence.
 
 I fully participated in this project. Wanling wrote the manuscript, while I reviewed and edited it.
 
