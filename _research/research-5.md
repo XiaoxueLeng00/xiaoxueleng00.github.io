@@ -16,7 +16,7 @@ In this project, I worked with Dr. Ziyi Kuang at Shaanxi Normal University. We:
 - Investigated whether students’ stereotype towards pedagogical agents influenced their learning;
 - Investigated whether pedagogical agent’s visual appearance influenced students’ learning interest and performance.
 
-A total of 101 12- and 13-year-old children learned one English course with a White and an Asian PA in the AutoTutor. Results showed PA's visual appearance influenced children's feelings and learning performance.
+A total of 101 12- and 13-year-old children learned one English course with a similar PA and a contextually relevant PA in the AutoTutor. Results showed PA's visual appearance influenced children's feelings and learning performance.
 
 We have finished the data analysis, and now are working on the final manuscript.
 
