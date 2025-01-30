@@ -22,13 +22,21 @@ Hi! I'm Xiaoxue, an incoming phd student.
 
 # 📝 Publications 
 
-[Eye movement modelling examples as cues to guide attention and improve learning in short or long animations](https://doi.org/10.1111/jcal.13094)
+[Eye movement modelling examples as cues to guide attention and improve learning in short or long animations](https://doi.org/10.1111/jcal.13094)**Journal of Computer Assisted Learning**
 
-Fuxing Wang, **Xiaoxue Leng**, Ziyi Kuang, Tingting Zhao
+Wang, F., **Leng, X.**, Kuang, Z., & Zhao, T.
 
-[The viewing perspective effect in learning from instructional videos: A replication and neuroimaging extension](https://doi.org/10.1016/j.learninstruc.2024.102004)
+[The viewing perspective effect in learning from instructional videos: A replication and neuroimaging extension](https://doi.org/10.1016/j.learninstruc.2024.102004)**Learning and Instruction**
 
-**Xiaoxue Leng**, Wanling Zhu, Richard E. Mayer, Fuxing Wang
+**Leng, X.**, Zhu, W., Mayer, R. E., & Wang, F. 
+
+[Role of gesturing onscreen instructors in video lectures: A set of three-level meta-analyses on the embodiment effect](https://doi.org/10.1007/s10648-024-09910-0)**Educational Psychology Review**
+
+Li, W., Kuang, Z., **Leng, X.**, Mayer, R. E., & Wang, F.
+
+[How to train students to engage in text-picture integration for multimedia lessons](https://doi.org/10.1111/bjet.13419)**British Journal of Educational Technology**
+
+**Leng, X.**, Wang, F., Mayer, R. E., & Zhao, T.
 
 # 🎖 Honors and Awards
 - *2023* Second Class Scholarship.
@@ -41,5 +49,4 @@ Fuxing Wang, **Xiaoxue Leng**, Ziyi Kuang, Tingting Zhao
 - *2017.09 - 2021.06*, B.S. in Psychology, Central China Normal University. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+**Not Yet!!**
