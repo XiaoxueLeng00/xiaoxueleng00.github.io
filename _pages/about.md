@@ -31,8 +31,10 @@ Fuxing Wang, **Xiaoxue Leng**, Ziyi Kuang, Tingting Zhao
 **Xiaoxue Leng**, Wanling Zhu, Richard E. Mayer, Fuxing Wang
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023* Second Class Scholarship.
+- *2022* Outstanding Graduate Scholarship (third prize)
+- *2021, 2022* First Class Scholarship
+- *2021* Outstanding Graduates Award
 
 # 📖 Educations
 - *2021.09 - 2024.06*, M.Ed. in Psychology, Central China Normal University. 
