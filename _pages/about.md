@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Xiaoxue, an incoming phd student.
+Hi! I'm Xiaoxue, an incoming phd student. I've got my bachelor and master degree in psychology from Central China Normal University. From 2020 to 2024, I worked in Learning and Child Development Lab with Dr. Fuxing Wang. During this time, I focused on exploring ways of supporting learning in the technology-based learning environment. I'm also interested in the cognitive and metacognitive processes of learning. I primarily conduct experiments in the lab setting with various techniques (e.g., eye-tracking, fNIRS). In the future, I want to utilize different methods and focus on more authentic learning contexts.
 
 
 # 📝 Publications 
