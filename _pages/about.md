@@ -38,6 +38,14 @@ Li, W., Kuang, Z., **Leng, X.**, Mayer, R. E., & Wang, F.
 
 **Leng, X.**, Wang, F., Mayer, R. E., & Zhao, T.
 
+[The effect of different question types on vicarious learning](https://doi.org/10.1080/01443410.2024.2325589)**Educational Psychology**
+
+Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Peng, S., & Hu, X.
+
+[Is student learning from a video lecture affected by whether the instructor wears a mask?](https://doi.org/10.1002/acp.4169)**Applied Cognitive Psychology**
+
+**Leng, X.**, Wang, F., & Mayer, R. E.
+
 # 🎖 Honors and Awards
 - *2023* Second Class Scholarship.
 - *2022* Outstanding Graduate Scholarship (third prize)
