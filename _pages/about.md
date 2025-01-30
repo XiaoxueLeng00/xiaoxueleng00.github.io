@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Xiaoxue, an incoming phd student. [Download CV](docs/xiaoxueleng_cv.pdf)
+Hi! I'm Xiaoxue, an incoming phd student. [Download CV](https://github.com/XiaoxueLeng00/xiaoxueleng00.github.io/blob/main/docs/xiaoxueleng_cv.pdf)
 
 
 # 📝 Publications 
