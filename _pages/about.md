@@ -24,29 +24,49 @@ At present, I still work closely with Dr. Fuxing Wang, together exploring how ge
 
 # 📝 Publications 
 
+## Journal Articles in English (N = 6)
+
 [Eye movement modelling examples as cues to guide attention and improve learning in short or long animations](https://doi.org/10.1111/jcal.13094)
 
-Wang, F., **Leng, X.**, Kuang, Z., & Zhao, T. **Journal of Computer Assisted Learning**
+Wang, F., **Leng, X.**, Kuang, Z., & Zhao, T. (2024) **Journal of Computer Assisted Learning**
 
 [The viewing perspective effect in learning from instructional videos: A replication and neuroimaging extension](https://doi.org/10.1016/j.learninstruc.2024.102004)
 
-**Leng, X.**, Zhu, W., Mayer, R. E., & Wang, F. **Learning and Instruction**
+**Leng, X.**, Zhu, W., Mayer, R. E., & Wang, F. (2024) **Learning and Instruction**
 
 [Role of gesturing onscreen instructors in video lectures: A set of three-level meta-analyses on the embodiment effect](https://doi.org/10.1007/s10648-024-09910-0)
 
-Li, W., Kuang, Z., **Leng, X.**, Mayer, R. E., & Wang, F. **Educational Psychology Review**
+Li, W., Kuang, Z., **Leng, X.**, Mayer, R. E., & Wang, F. (2024) **Educational Psychology Review**
 
 [How to train students to engage in text-picture integration for multimedia lessons](https://doi.org/10.1111/bjet.13419)
 
-**Leng, X.**, Wang, F., Mayer, R. E., & Zhao, T. **British Journal of Educational Technology**
+**Leng, X.**, Wang, F., Mayer, R. E., & Zhao, T. (2024) **British Journal of Educational Technology**
 
 [The effect of different question types on vicarious learning](https://doi.org/10.1080/01443410.2024.2325589)
 
-Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Peng, S., & Hu, X. **Educational Psychology**
+Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Peng, S., & Hu, X. (2024) **Educational Psychology**
 
 [Is student learning from a video lecture affected by whether the instructor wears a mask?](https://doi.org/10.1002/acp.4169)
 
-**Leng, X.**, Wang, F., & Mayer, R. E. **Applied Cognitive Psychology**
+**Leng, X.**, Wang, F., & Mayer, R. E. (2024) **Applied Cognitive Psychology**
+
+## Journal Articles in Chinese (N = 4)
+
+[Prompts affect learning-by-teaching process and learning outcome in multimedia learning](https://doi.org/10.3724/SP.J.1041.2024.00469)
+
+Wang, F., Huang, Y., Zhang, Y., Zhu, W., & **Leng, X.** (2024) **Acta Psychologica Sinica**
+
+[Learning-by-teaching promotes the effect of multimedia learning: The impact of self-generated drawing](https://doi.org/10.19563/j.cnki.sdjk.2023.03.008)
+
+Wang, F., Huang, Y., **Leng, X.**, & Kuang, Z. (2023) **Journal of Soochow University (Educational Science Edition)**
+
+[Can learning by non-interactive teaching promote learning?](https://doi.org/10.3724/SP.J.1042.2023.00769)
+
+Cheng, M., Kuang, Z., **Leng, X.**, Zhang, Y., & Wang, F. (2023) **Advances in Psychological Science**
+
+[The effects of testing and feedback on segmentation principle in video learning](https://doi.org/10.12139/j.1672-0628.2022.01.008)
+
+**Leng, X.**, Cheng, M., & Wang, F. (2022) **Studies of Psychology and Behavior**
 
 # 📑 Projects 
 
