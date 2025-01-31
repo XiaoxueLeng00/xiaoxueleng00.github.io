@@ -50,7 +50,7 @@ Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Pe
 
 **Leng, X.**, Wang, F., & Mayer, R. E. (2024) **Applied Cognitive Psychology**
 
-## Journal Articles in Chinese (N = 4)
+## 2️⃣ Journal Articles in Chinese (N = 4)
 
 [Prompts affect learning-by-teaching process and learning outcome in multimedia learning](https://doi.org/10.3724/SP.J.1041.2024.00469)
 
