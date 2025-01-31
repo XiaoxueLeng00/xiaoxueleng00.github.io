@@ -24,7 +24,7 @@ At present, I still work closely with Dr. Fuxing Wang, together exploring how ge
 
 # 📝 Publications 
 
-## Journal Articles in English (N = 6)
+## 1️⃣ Journal Articles in English (N = 6)
 
 [Eye movement modelling examples as cues to guide attention and improve learning in short or long animations](https://doi.org/10.1111/jcal.13094)
 
