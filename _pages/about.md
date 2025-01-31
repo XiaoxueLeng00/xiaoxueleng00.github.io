@@ -24,7 +24,7 @@ At present, I still work closely with Dr. Fuxing Wang, together exploring how ge
 
 # 📝 Publications 
 
-Note: Only pulished journal articles here. For other papers, conferences, and presentations, please see my cv.
+Note: Only published journal articles here. For other papers, conferences, and presentations, please see my cv.
 
 ## 1️⃣ Journal Articles in English (N = 6)
 
@@ -72,12 +72,19 @@ Cheng, M., Kuang, Z., **Leng, X.**, Zhang, Y., & Wang, F. (2023) **Advances in P
 
 # 📑 Projects 
 
-## **How Generating Gestures Improve Children’s Memory on Route Information?**
-- Explored the impact of gesture production on children’s memory on route information.
-- Investigated the Representational Mapping Hypothesis, examining how different types of gestures facilitate recall of location and route information among young children.
+## 1️⃣ **How Generating Gestures Improve Children’s Memory on Spatial Information?**
+- Explored the impact of gesture production on children’s memory on spatial information.
+- Investigated the *Representational Mapping Hypothesis*, examining how different types of gestures facilitate recall of location and route information among young children.
 - Conducted two experiments with a total of 168 4- and 5-year-old children and analyzed data.
 - Findings showed that producing gestures improved children’s memory, with pointing gestures enhancing location memory and directional and tracing gestures boosting route memory.
 - Currently drafting a manuscript for publication.
+
+## 2️⃣ **No Need for Webcams with Synchronous Online Learning**
+- Investigated the impact of teachers’ and students’ webcam use on synchronous online learning.
+- Collected data from 33 college students, and recorded videos of learning processes.
+- Applied motion energy analysis to examine students' movement and utilized FaceReader to assess emotional responses.
+- Findings suggested students performed better when the instructor turned off the webcam and felt happier when they turned off the webcam.
+- Reviewed and edited the manuscript submitted to a journal.
 
 # 🎖 Honors and Awards
 *Received at Central China Normal University*
