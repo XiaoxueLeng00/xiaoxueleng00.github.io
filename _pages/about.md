@@ -48,9 +48,9 @@ Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Pe
 
 **Leng, X.**, Wang, F., & Mayer, R. E. **Applied Cognitive Psychology**
 
-# Projects
+# 📑 Projects 
 
-**How Generating Gestures Improve Children’s Memory on Route Information?**
+## **How Generating Gestures Improve Children’s Memory on Route Information?**
 - Explored the impact of gesture production on children’s memory on route information.
 - Investigated the Representational Mapping Hypothesis, examining how different types of gestures facilitate recall of location and route information among young children.
 - Conducted two experiments with a total of 168 4- and 5-year-old children and analyzed data.
