@@ -21,6 +21,8 @@ Hi! I'm Xiaoxue, an incoming phd student. I've got my bachelor and master degree
 
 At present, I still work closely with Dr. Fuxing Wang, together exploring how gestures help children to memorize spatial information. Meanwhile, I'm collaborating with [Dr. Ziyi Kuang](https://www.researchgate.net/profile/Ziyi-Kuang) on several projects.
 
+# 🔥 News
+- *2025.02*: &nbsp;🎉🎉
 
 # 📝 Publications 
 
@@ -89,7 +91,7 @@ Cheng, M., Kuang, Z., **Leng, X.**, Zhang, Y., & Wang, F. (2023) **Advances in P
 # 🎖 Honors and Awards
 *Received at Central China Normal University*
 - *2023* Second Class Scholarship
-- *2022* Outstanding Graduate Scholarship (third prize)
+- *2022* Outstanding Graduate Scholarship (Third Prize)
 - *2021, 2022* First Class Scholarship
 - *2021* Outstanding Graduates Award
 
