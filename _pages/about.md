@@ -17,12 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Xiaoxue, an incoming phd student. I've got my bachelor and master degree in psychology from Central China Normal University. From 2020 to 2024, I worked in [Learning and Child Development Lab](https://fxwang1.wixsite.com/landcdlab) with [Dr. Fuxing Wang](https://psych.ccnu.edu.cn/info/1132/5162.htm). During this time, I focused on exploring ways of supporting learning in the technology-based learning environment and understanding cognitive (and metacognitive) processes of learning. I primarily conduct experiments in the lab setting with various techniques (e.g., eye-tracking, fNIRS). In the future, I want to utilize different methods and focus on more authentic learning contexts.
+Hi! I'm Xiaoxue Leng. Xiaoxue❄️ can be interpreted as "Snow in the morning" or "We know snow is coming" in Chinese, and Leng means "Cold".
+
+I've got my bachelor and master degree in psychology from Central China Normal University. From 2020 to 2024, I worked in [Learning and Child Development Lab](https://fxwang1.wixsite.com/landcdlab) with [Dr. Fuxing Wang](https://psych.ccnu.edu.cn/info/1132/5162.htm). During this time, I focused on exploring ways of supporting learning in the technology-based learning environment and understanding cognitive (and metacognitive) processes of learning. I primarily conducted experiments in the lab setting with various techniques (e.g., eye-tracking, fNIRS).
 
 At present, I still work closely with Dr. Fuxing Wang, together exploring how gestures help children to memorize spatial information. Meanwhile, I'm collaborating with [Dr. Ziyi Kuang](https://www.researchgate.net/profile/Ziyi-Kuang) on several projects.
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉
+- *2025.03*: &nbsp;🎉🎉
 
 # 📝 Publications 
 
