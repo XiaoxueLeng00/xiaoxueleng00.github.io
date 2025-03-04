@@ -33,30 +33,27 @@ Note: Only published journal articles here. For other papers, conferences, and p
 ## 1️⃣ Journal Articles in English (N = 6)
 
 **[6]** [Eye movement modelling examples as cues to guide attention and improve learning in short or long animations](https://doi.org/10.1111/jcal.13094)
-
 Wang, F., **Leng, X.**, Kuang, Z., & Zhao, T. (2024) **Journal of Computer Assisted Learning**
 
 **[5]** [The viewing perspective effect in learning from instructional videos: A replication and neuroimaging extension](https://doi.org/10.1016/j.learninstruc.2024.102004)
-
 **Leng, X.**, Zhu, W., Mayer, R. E., & Wang, F. (2024) **Learning and Instruction**
 
 **[4]** [Role of gesturing onscreen instructors in video lectures: A set of three-level meta-analyses on the embodiment effect](https://doi.org/10.1007/s10648-024-09910-0)
-
 Li, W., Kuang, Z., **Leng, X.**, Mayer, R. E., & Wang, F. (2024) **Educational Psychology Review**
 
 **[3]** [How to train students to engage in text-picture integration for multimedia lessons](https://doi.org/10.1111/bjet.13419)
-
 **Leng, X.**, Wang, F., Mayer, R. E., & Zhao, T. (2024) **British Journal of Educational Technology**
 
 **[2]** [The effect of different question types on vicarious learning](https://doi.org/10.1080/01443410.2024.2325589)
-
 Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Peng, S., & Hu, X. (2024) **Educational Psychology**
 
 **[1]** [Is student learning from a video lecture affected by whether the instructor wears a mask?](https://doi.org/10.1002/acp.4169)
-
 **Leng, X.**, Wang, F., & Mayer, R. E. (2024) **Applied Cognitive Psychology**
 
 ## 2️⃣ Journal Articles in Chinese (N = 4)
+
+**[5]** Graspable: The promoting effect of tracing gesture on learning
+Kuang, Z., **Leng, X.**, Wang, F., & Hu, X. (Accepted) **Psychological Development and Education**
 
 **[4]** [Prompts affect learning-by-teaching process and learning outcome in multimedia learning](https://doi.org/10.3724/SP.J.1041.2024.00469)
 Wang, F., Huang, Y., Zhang, Y., Zhu, W., & **Leng, X.** (2024) **Acta Psychologica Sinica**
