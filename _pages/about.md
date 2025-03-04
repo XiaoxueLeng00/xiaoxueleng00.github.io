@@ -50,7 +50,7 @@ Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Pe
 **[1]** [Is student learning from a video lecture affected by whether the instructor wears a mask?](https://doi.org/10.1002/acp.4169)
 **Leng, X.**, Wang, F., & Mayer, R. E. (2024) **Applied Cognitive Psychology**
 
-## 2️⃣ Journal Articles in Chinese (N = 4)
+## 2️⃣ Journal Articles in Chinese (N = 5)
 
 **[5]** Graspable: The promoting effect of tracing gesture on learning
 Kuang, Z., **Leng, X.**, Wang, F., & Hu, X. (Accepted) **Psychological Development and Education**
