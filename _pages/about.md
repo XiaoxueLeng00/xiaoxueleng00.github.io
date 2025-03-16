@@ -23,10 +23,8 @@ I've got my bachelor and master degree in psychology from Central China Normal U
 
 At present, I still work closely with Dr. Fuxing Wang, together exploring how gestures help children to memorize spatial information. Meanwhile, I'm collaborating with [Dr. Ziyi Kuang](https://www.researchgate.net/profile/Ziyi-Kuang) on several projects.
 
-If you want to contact me, either [lengxx@mails.ccnu.edu.cn] or [xiaoxuel@unc.edu] is alright.
-
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 I got admitted by Education PhD program (Concentration: Learning Sciences and Psychological Studies) in University of North Carolina at Chapel Hill. I'll join this program in 2025 Fall and start to work with Dr. Matt Bernacki.
+- *2025.03*: &nbsp;🎉🎉 I got admitted by Education PhD program (Concentration: Learning Sciences and Psychological Studies) in University of North Carolina at Chapel Hill. I'll join this program in 2025 Fall and start to work with Dr. Matt Bernacki.🎉🎉
 
 # 📝 Publications 
 
