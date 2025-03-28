@@ -32,6 +32,9 @@ Note: Only published journal articles here. For other papers, conferences, and p
 
 ## 1️⃣ Journal Articles in English (N = 6)
 
+**[7]** [No need for webcams with synchronous online learning]
+Zhu, W., **Leng, X.**, Mayer, R. E., & Wang, F. (2025) **Learning and Instruction**
+
 **[6]** [Eye movement modelling examples as cues to guide attention and improve learning in short or long animations](https://doi.org/10.1111/jcal.13094)
 Wang, F., **Leng, X.**, Kuang, Z., & Zhao, T. (2024) **Journal of Computer Assisted Learning**
 
