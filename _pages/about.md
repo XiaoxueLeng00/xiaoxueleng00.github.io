@@ -30,7 +30,7 @@ At present, I still work closely with Dr. Fuxing Wang, together exploring how ge
 
 Note: Only published journal articles here. For other papers, conferences, and presentations, please see my cv.
 
-## 1️⃣ Journal Articles in English (N = 6)
+## 1️⃣ Journal Articles in English (N = 7)
 
 **[7]** No need for webcams with synchronous online learning.
 Zhu, W., **Leng, X.**, Mayer, R. E., & Wang, F. (2025) **Learning and Instruction**
