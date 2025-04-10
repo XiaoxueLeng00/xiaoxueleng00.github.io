@@ -30,9 +30,9 @@ At present, I still work closely with Dr. Fuxing Wang, together exploring how ge
 
 Note: Only published journal articles here. For other papers, conferences, and presentations, please see my cv.
 
-## 1️⃣ Journal Articles in English (N = 7)
+## Peer-reviewed Journal Articles (N = 7)
 
-**[7]** No need for webcams with synchronous online learning.
+**[7]** [No need for webcams with synchronous online learning](https://doi.org/10.1016/j.learninstruc.2025.102131)
 Zhu, W., **Leng, X.**, Mayer, R. E., & Wang, F. (2025) **Learning and Instruction**
 
 **[6]** [Eye movement modelling examples as cues to guide attention and improve learning in short or long animations](https://doi.org/10.1111/jcal.13094)
@@ -52,23 +52,6 @@ Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Pe
 
 **[1]** [Is student learning from a video lecture affected by whether the instructor wears a mask?](https://doi.org/10.1002/acp.4169)
 **Leng, X.**, Wang, F., & Mayer, R. E. (2024) **Applied Cognitive Psychology**
-
-## 2️⃣ Journal Articles in Chinese (N = 5)
-
-**[5]** Graspable: The promoting effect of tracing gesture on learning
-Kuang, Z., **Leng, X.**, Wang, F., & Hu, X. (Accepted) **Psychological Development and Education**
-
-**[4]** [Prompts affect learning-by-teaching process and learning outcome in multimedia learning](https://doi.org/10.3724/SP.J.1041.2024.00469)
-Wang, F., Huang, Y., Zhang, Y., Zhu, W., & **Leng, X.** (2024) **Acta Psychologica Sinica**
-
-**[3]** [Learning-by-teaching promotes the effect of multimedia learning: The impact of self-generated drawing](https://doi.org/10.19563/j.cnki.sdjk.2023.03.008)
-Wang, F., Huang, Y., **Leng, X.**, & Kuang, Z. (2023) **Journal of Soochow University (Educational Science Edition)**
-
-**[2]** [Can learning by non-interactive teaching promote learning?](https://doi.org/10.3724/SP.J.1042.2023.00769)
-Cheng, M., Kuang, Z., **Leng, X.**, Zhang, Y., & Wang, F. (2023) **Advances in Psychological Science**
-
-**[1]** [The effects of testing and feedback on segmentation principle in video learning](https://doi.org/10.12139/j.1672-0628.2022.01.008)
-**Leng, X.**, Cheng, M., & Wang, F. (2022) **Studies of Psychology and Behavior**
 
 # 📑 Projects 
 
