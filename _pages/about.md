@@ -32,13 +32,13 @@ Note: Only published journal articles here. For other papers, conferences, and p
 
 ## Peer-reviewed Journal Articles (N = 7)
 
-- 7️⃣ [No need for webcams with synchronous online learning](https://doi.org/10.1016/j.learninstruc.2025.102131)
+### 7️⃣ [No need for webcams with synchronous online learning](https://doi.org/10.1016/j.learninstruc.2025.102131)
 Zhu, W., **Leng, X.**, Mayer, R. E., & Wang, F. (2025) **Learning and Instruction**
 
-- 6️⃣ [Eye movement modelling examples as cues to guide attention and improve learning in short or long animations](https://doi.org/10.1111/jcal.13094)
+### 6️⃣ [Eye movement modelling examples as cues to guide attention and improve learning in short or long animations](https://doi.org/10.1111/jcal.13094)
 Wang, F., **Leng, X.**, Kuang, Z., & Zhao, T. (2024) **Journal of Computer Assisted Learning**
 
-- 5️⃣ [The viewing perspective effect in learning from instructional videos: A replication and neuroimaging extension](https://doi.org/10.1016/j.learninstruc.2024.102004)
+### 5️⃣ [The viewing perspective effect in learning from instructional videos: A replication and neuroimaging extension](https://doi.org/10.1016/j.learninstruc.2024.102004)
 **Leng, X.**, Zhu, W., Mayer, R. E., & Wang, F. (2024) **Learning and Instruction**
 
 - 4️⃣ [Role of gesturing onscreen instructors in video lectures: A set of three-level meta-analyses on the embodiment effect](https://doi.org/10.1007/s10648-024-09910-0)
