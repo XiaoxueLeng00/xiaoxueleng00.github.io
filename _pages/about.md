@@ -29,7 +29,7 @@ At present, I still work closely with Dr. Fuxing Wang, together exploring how ge
 
 # 📝 Publications 
 
-Note: Only published journal articles here. For other papers, conferences, and presentations, please see my cv.
+Note: Only published journal articles (in English) here. For other papers, conferences, and presentations, please see my cv.
 
 ## Peer-reviewed Journal Articles (N = 7)
 
@@ -72,12 +72,16 @@ Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Pe
 
 # 🎖 Honors and Awards
 *Received at Central China Normal University*
-- *2023* Second Class Scholarship
-- *2022* Outstanding Graduate Scholarship (Third Prize)
-- *2021, 2022* First Class Scholarship
-- *2021* Outstanding Graduates Award
+- *2023*  Second Class Scholarship
+- *2022*  Outstanding Graduate Scholarship (Third Prize)
+- *2021, 2022*  First Class Scholarship
+- *2021*  Merit-based Admission Scholarship
+- *2021*  Outstanding Graduates Award
+- *2018, 2019, 2020*  Merit Student Award
+- *2018, 2020*  Boya Scholarship
 
 # 📖 Educations
+- *Incoming*, Ph.D. in Education, Unversity of North Carolina at Chapel Hill.
 - *2021.09 - 2024.06*, M.Ed. in Psychology, Central China Normal University. 
 - *2017.09 - 2021.06*, B.S. in Psychology, Central China Normal University. 
 
