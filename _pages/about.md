@@ -24,7 +24,8 @@ I've got my bachelor and master degree in psychology from Central China Normal U
 At present, I still work closely with Dr. Fuxing Wang, together exploring how gestures help children to memorize spatial information. Meanwhile, I'm collaborating with [Dr. Ziyi Kuang](https://www.researchgate.net/profile/Ziyi-Kuang) on several projects.
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 I got admitted by Education PhD program (Concentration: Learning Sciences and Psychological Studies) in University of North Carolina at Chapel Hill. I'll join this program in 2025 Fall and start to work with Dr. Matt Bernacki.🎉🎉
+- *2025.04*: &nbsp;🎉🎉 A new paper has published in Learning and Instruction!! In this paper, we focused on the effect of instructor presence and student presence in synchronous online classes on learning. Click [link](https://doi.org/10.1016/j.learninstruc.2025.102131) to have a look! 🎉🎉
+- *2025.03*: &nbsp;🎉🎉 I got admitted by Education PhD program (Concentration: Learning Sciences and Psychological Studies) in University of North Carolina at Chapel Hill. I'll join this program in 2025 Fall and start to work with Dr. Matt Bernacki there.🎉🎉
 
 # 📝 Publications 
 
