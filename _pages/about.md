@@ -74,7 +74,7 @@ Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Pe
 *Please see my cv.*
 
 # 📖 Educations
-- *Incoming* &emsp;&emsp; Ph.D. in Education, Unversity of North Carolina at Chapel Hill.
+- *Incoming* &emsp;&emsp;&nbsp; Ph.D. in Education, Unversity of North Carolina at Chapel Hill.
 - *2021 - 2024* &emsp; M.Ed. in Psychology, Central China Normal University. 
 - *2017 - 2021* &emsp; B.S. in Psychology, Central China Normal University. 
 
