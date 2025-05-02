@@ -71,19 +71,12 @@ Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Pe
 - Reviewed and edited the manuscript submitted to a journal.
 
 # 🎖 Honors and Awards
-*Received at Central China Normal University*
-- *2023*&emsp;&emsp;&emsp;Second Class Scholarship
-- *2022*&emsp;&emsp;&emsp;Outstanding Graduate Scholarship (Third Prize)
-- *2021, 2022*&emsp;&emsp;First Class Scholarship
-- *2021*&emsp;&emsp;&emsp;Merit-based Admission Scholarship
-- *2021*&emsp;&emsp;&emsp;Outstanding Graduates Award
-- *2018, 2019, 2020*  Merit Student Award
-- *2018, 2020*&emsp;&emsp;Boya Scholarship
+*Please see my cv.*
 
 # 📖 Educations
-- *Incoming*, Ph.D. in Education, Unversity of North Carolina at Chapel Hill.
-- *2021.09 - 2024.06*, M.Ed. in Psychology, Central China Normal University. 
-- *2017.09 - 2021.06*, B.S. in Psychology, Central China Normal University. 
+- *Incoming* &emsp;&emsp; Ph.D. in Education, Unversity of North Carolina at Chapel Hill.
+- *2021 - 2024* &emsp; M.Ed. in Psychology, Central China Normal University. 
+- *2017 - 2021* &emsp; B.S. in Psychology, Central China Normal University. 
 
 # 💬 Invited Talks
-**Not Yet!!**
+*Not yet.*
