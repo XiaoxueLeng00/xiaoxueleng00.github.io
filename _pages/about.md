@@ -72,13 +72,13 @@ Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Pe
 
 # 🎖 Honors and Awards
 *Received at Central China Normal University*
-- *2023*`         `Second Class Scholarship
-- *2022*`         `Outstanding Graduate Scholarship (Third Prize)
-- *2021, 2022*    First Class Scholarship
-- *2021* Merit-based Admission Scholarship
-- *2021*  Outstanding Graduates Award
+- *2023*&emsp;&emsp;Second Class Scholarship
+- *2022*&emsp;&emsp;Outstanding Graduate Scholarship (Third Prize)
+- *2021, 2022*&emsp;First Class Scholarship
+- *2021*&emsp;&emsp;Merit-based Admission Scholarship
+- *2021*&emsp;&emsp;Outstanding Graduates Award
 - *2018, 2019, 2020*  Merit Student Award
-- *2018, 2020*  Boya Scholarship
+- *2018, 2020*&emsp;Boya Scholarship
 
 # 📖 Educations
 - *Incoming*, Ph.D. in Education, Unversity of North Carolina at Chapel Hill.
