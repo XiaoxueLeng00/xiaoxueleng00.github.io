@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Xiaoxue Leng. Xiaoxue can be interpreted as "Snow in the morning" or "We know snow is coming"❄️ in Chinese, and Leng means "Cold"🥶. I'm going to pursue my PhD degree in the US this year!
+Hi! I'm Xiaoxue Leng (冷晓雪). Xiaoxue can be interpreted as "Snow in the morning" or "We know snow is coming"❄️ in Chinese, and Leng means "Cold"🥶. I'm going to pursue my PhD degree in the US this year!
 
 I've got my bachelor and master degree in psychology from Central China Normal University. From 2020 to 2024, I worked in [Learning and Child Development Lab](https://fxwang1.wixsite.com/landcdlab) with [Dr. Fuxing Wang](https://psych.ccnu.edu.cn/info/1132/5162.htm). During this time, I focused on exploring ways of supporting learning in the technology-based learning environment and understanding cognitive (and metacognitive) processes of learning. I primarily conducted experiments with various techniques (e.g., eye-tracking, fNIRS) in the labs.
 
