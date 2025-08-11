@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Xiaoxue Leng (冷晓雪). Xiaoxue can be interpreted as "Snow in the morning" or "We know snow is coming"❄️ in Chinese, and Leng means "Cold"🥶. I'm a 1st-year PhD student in Education (Learning Sciences and Psychological Studies) at UNC Chapel Hill.
+Hi! I'm Xiaoxue Leng (冷晓雪). Xiaoxue can be interpreted as "Snow in the morning" or "We know snow is coming"❄️ in Chinese, and Leng means "Cold"🥶. 
 
 ## Background
 
 I've got my bachelor and master degree in psychology from Central China Normal University. From 2020 to 2024, I worked in [Learning and Child Development Lab](https://fxwang1.wixsite.com/landcdlab) with [Dr. Fuxing Wang](https://psych.ccnu.edu.cn/info/1132/5162.htm). During this time, I focused on exploring ways of supporting learning in the technology-based learning environment and understanding cognitive (and metacognitive) processes of learning. I primarily conducted experiments with various techniques (e.g., eye-tracking, fNIRS) in the labs.
 
-At present, I'm working as research assistant with the supervision of [Dr. Matt Bernacki](https://ed.unc.edu/people/matt-bernacki/).
+At present, I'm a 1st-year PhD student in Education (Learning Sciences and Psychological Studies) at UNC Chapel Hill. Here, I work as a research assistant with the supervision of [Dr. Matt Bernacki](https://ed.unc.edu/people/matt-bernacki/).
 
 Meanwhile, I collaborate with [Dr. Ziyi Kuang](https://www.researchgate.net/profile/Ziyi-Kuang) to explore how to use generative learning activities to support learning. Also, I work with Guohao He to examine the effects of parental growth mindset on student's academic achievement and beliefs.
 
