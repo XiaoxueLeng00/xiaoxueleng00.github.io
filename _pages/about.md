@@ -17,15 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Xiaoxue Leng (冷晓雪). Xiaoxue can be interpreted as "Snow in the morning" or "We know snow is coming"❄️ in Chinese, and Leng means "Cold"🥶. I'm going to pursue my PhD degree in the US this year!
+Hi! I'm Xiaoxue Leng (冷晓雪). Xiaoxue can be interpreted as "Snow in the morning" or "We know snow is coming"❄️ in Chinese, and Leng means "Cold"🥶. I'm a 1st-year PhD student in Education (Learning Sciences and Psychological Studies) at UNC Chapel Hill.
 
 I've got my bachelor and master degree in psychology from Central China Normal University. From 2020 to 2024, I worked in [Learning and Child Development Lab](https://fxwang1.wixsite.com/landcdlab) with [Dr. Fuxing Wang](https://psych.ccnu.edu.cn/info/1132/5162.htm). During this time, I focused on exploring ways of supporting learning in the technology-based learning environment and understanding cognitive (and metacognitive) processes of learning. I primarily conducted experiments with various techniques (e.g., eye-tracking, fNIRS) in the labs.
 
-At present, I still work closely with Dr. Fuxing Wang, together exploring how gestures help children to memorize spatial information. Meanwhile, I'm collaborating with [Dr. Ziyi Kuang](https://www.researchgate.net/profile/Ziyi-Kuang) on several projects.
+At present, I'm working as research assistant with the supervision of [Dr. Matt Bernacki](https://ed.unc.edu/people/matt-bernacki/).
+
+Meanwhile, I collaborate with [Dr. Ziyi Kuang](https://www.researchgate.net/profile/Ziyi-Kuang) to explore how to use generative learning activities to help students. Also, I work with Guohao He to examine the effects of parental growth mindset on student's academic achievement.
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 A new paper has published in Learning and Instruction!! In this paper, we focused on the effect of instructor presence and student presence in synchronous online classes on learning. Click [link](https://doi.org/10.1016/j.learninstruc.2025.102131) to have a look! 🎉🎉
-- *2025.03*: &nbsp;🎉🎉 I got admitted by Education PhD program (Concentration: Learning Sciences and Psychological Studies) in University of North Carolina at Chapel Hill. I'll join this program in 2025 Fall and start to work with Dr. Matt Bernacki there.🎉🎉
+- *2025.04*: &nbsp;🎉🎉 A new paper has published in Learning and Instruction!! In this paper, we focused on the effect of instructor presence and student presence in synchronous online classes on learning. Click [link](https://doi.org/10.1016/j.learninstruc.2025.102131) to have a look! 
 
 # 📝 Publications 
 
