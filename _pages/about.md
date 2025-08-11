@@ -23,7 +23,7 @@ I've got my bachelor and master degree in psychology from Central China Normal U
 
 At present, I'm working as research assistant with the supervision of [Dr. Matt Bernacki](https://ed.unc.edu/people/matt-bernacki/).
 
-Meanwhile, I collaborate with [Dr. Ziyi Kuang](https://www.researchgate.net/profile/Ziyi-Kuang) to explore how to use generative learning activities to help students. Also, I work with Guohao He to examine the effects of parental growth mindset on student's academic achievement.
+Meanwhile, I collaborate with [Dr. Ziyi Kuang](https://www.researchgate.net/profile/Ziyi-Kuang) to explore how to use generative learning activities to support learning. Also, I work with Guohao He to examine the effects of parental growth mindset on student's academic achievement and beliefs.
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 A new paper has published in Learning and Instruction!! In this paper, we focused on the effect of instructor presence and student presence in synchronous online classes on learning. Click [link](https://doi.org/10.1016/j.learninstruc.2025.102131) to have a look! 
@@ -75,7 +75,7 @@ Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Pe
 *Please see my cv.*
 
 # 📖 Educations
-- *Incoming* &emsp;&emsp;&nbsp; Ph.D. in Education, Unversity of North Carolina at Chapel Hill.
+- *2025 - 2030* &emsp; Ph.D. in Education, Unversity of North Carolina at Chapel Hill.
 - *2021 - 2024* &emsp; M.Ed. in Psychology, Central China Normal University. 
 - *2017 - 2021* &emsp; B.S. in Psychology, Central China Normal University. 
 
