@@ -20,8 +20,9 @@ redirect_from:
 <br/>
 <br/>
 Hi! I'm Xiaoxue Leng (冷晓雪). Xiaoxue can be interpreted as "Snow in the morning" or "We know snow is coming"❄️ in Chinese, and Leng means "Cold"🥶. 
-
 <br/>
+
+
 ## Background
 
 I received my bachelor’s and master’s degrees in Psychology from Central China Normal University. From 2020 to 2024, I worked in the [Learning and Child Development Lab](https://fxwang1.wixsite.com/landcdlab) with [Dr. Fuxing Wang](https://psych.ccnu.edu.cn/info/1132/5162.htm), where I explored how to support learning in technology-based environments and examined the cognitive and metacognitive processes underlying learning. Much of my work involved conducting experiments using methods such as eye-tracking and fNIRS.
@@ -29,8 +30,9 @@ I received my bachelor’s and master’s degrees in Psychology from Central Chi
 I am currently a first-year Ph.D. student in Education (Learning Sciences and Psychological Studies) at UNC Chapel Hill. I work as a research assistant under the supervision of [Dr. Matt Bernacki](https://ed.unc.edu/people/matt-bernacki/). My research focuses on understanding students’ self-regulated learning behaviors and developing, testing, and implementing effective interventions to support self-regulated learning in real classroom settings.
 
 In addition, I collaborate with [Dr. Ziyi Kuang](https://www.researchgate.net/profile/Ziyi-Kuang) to investigate how generative learning activities can support student learning, and with Guohao He to examine the influence of parental growth mindset on students’ academic achievement and beliefs.
-
 <br/>
+
+
 ## Research Interests
 
 ***How to help students learn more effectively?*** 
@@ -42,11 +44,11 @@ Early in my work, I believed the answer lay in improving instructional design, i
 This finding led me to a new line of inquiry: If effective learning strategies exist but students rarely apply them in real life, what holds them back? Why are students reluctant to use these strategies? And how can we encourage them not only to practice these strategies in controlled settings but also to adopt them actively in their daily learning? These questions have gradually shaped the next stage of my research interests.
 
 Looking ahead, my work aims to bridge the gap between knowing and doing in students' learning. I am particularly interested in understanding the cognitive, motivational, and contextual factors that influence whether students choose to apply effective strategies in authentic settings. By combining laboratory-based experiments with classroom-based interventions, I seek to design and test approaches that not only improve students’ self-regulated learning but also make these practices sustainable in real educational environments. Ultimately, my goal is to generate insights that inform both theory and practice, contributing to learning sciences research while providing evidence-based guidance for educators.
-
 <br/>
+
 *This section was drafted by me and polished with the assistance of ChatGPT (OpenAI’s GPT-5).*
-
 <br/>
+
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 A new paper has published in Learning and Instruction!! In this paper, we focused on the effect of instructor presence and student presence in synchronous online classes on learning. Click [link](https://doi.org/10.1016/j.learninstruc.2025.102131) to have a look! 
 
