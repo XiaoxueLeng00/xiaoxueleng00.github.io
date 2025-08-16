@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 <br/>
-<br/>
-<br/>
+
 Hi! I'm Xiaoxue Leng (冷晓雪). Xiaoxue can be interpreted as "Snow in the morning" or "We know snow is coming"❄️ in Chinese, and Leng means "Cold"🥶. 
 <br/>
 
