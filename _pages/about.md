@@ -33,7 +33,7 @@ In addition, I collaborate with [Dr. Ziyi Kuang](https://www.researchgate.net/pr
 
 This question drives my research.
 
-Early in my work, I believed the answer lay in improving instructional design, identifying effective learning strategies, and training students to use these strategies. So, I spent considerable time to exploring these issues. However, through a series of experiments in a large-scale project, I discovered that although students benefited from applying learning strategies in the laboratory, they often reported being unwilling to use them in their everyday learning.
+Early in my work, I believed the answer lay in improving instructional design, identifying effective learning strategies, and training students to use these strategies. I spent considerable time to exploring these issues. However, through a series of experiments in a large-scale project, I discovered that although students benefited from applying learning strategies in the laboratory, they often reported being unwilling to use them in their everyday learning.
 
 This finding led me to a new line of inquiry: If effective learning strategies exist but students rarely apply them in real life, what holds them back? Why are students reluctant to use these strategies? And how can we encourage them not only to practice these strategies in controlled settings but also to adopt them actively in their daily learning? These questions have gradually shaped the next stage of my research interests.
 
