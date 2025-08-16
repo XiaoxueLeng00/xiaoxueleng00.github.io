@@ -21,14 +21,25 @@ Hi! I'm Xiaoxue Leng (冷晓雪). Xiaoxue can be interpreted as "Snow in the mor
 
 ## Background
 
-I've got my bachelor and master degree in psychology from Central China Normal University. From 2020 to 2024, I worked in [Learning and Child Development Lab](https://fxwang1.wixsite.com/landcdlab) with [Dr. Fuxing Wang](https://psych.ccnu.edu.cn/info/1132/5162.htm). During this time, I focused on exploring ways of supporting learning in the technology-based learning environment and understanding cognitive (and metacognitive) processes of learning. I primarily conducted experiments with various techniques (e.g., eye-tracking, fNIRS) in the labs.
+I received my bachelor’s and master’s degrees in Psychology from Central China Normal University. From 2020 to 2024, I worked in the [Learning and Child Development Lab](https://fxwang1.wixsite.com/landcdlab) with [Dr. Fuxing Wang](https://psych.ccnu.edu.cn/info/1132/5162.htm), where I explored how to support learning in technology-based environments and examined the cognitive and metacognitive processes underlying learning. Much of my work involved conducting experiments using methods such as eye-tracking and fNIRS.
 
 I am currently a first-year Ph.D. student in Education (Learning Sciences and Psychological Studies) at UNC Chapel Hill. I work as a research assistant under the supervision of [Dr. Matt Bernacki](https://ed.unc.edu/people/matt-bernacki/). My research focuses on understanding students’ self-regulated learning behaviors and developing, testing, and implementing effective interventions to support self-regulated learning in real classroom settings.
 
-Meanwhile, I collaborate with [Dr. Ziyi Kuang](https://www.researchgate.net/profile/Ziyi-Kuang) to explore how to use generative learning activities to support learning. Also, I work with Guohao He to examine the effects of parental growth mindset on student's academic achievement and beliefs.
+In addition, I collaborate with [Dr. Ziyi Kuang](https://www.researchgate.net/profile/Ziyi-Kuang) to investigate how generative learning activities can support student learning, and with Guohao He to examine the influence of parental growth mindset on students’ academic achievement and beliefs.
 
 ## Research Interests
 
+***How to help students learn more effectively?*** 
+
+This question drives my research.
+
+Early in my work, I believed the answer lay in improving instructional design, identifying effective learning strategies, and training students to use these strategies. So, I spent considerable time to exploring these issues. However, through a series of experiments in a large-scale project, I discovered that although students benefited from applying learning strategies in the laboratory, they often reported being unwilling to use them in their everyday learning.
+
+This finding led me to a new line of inquiry: If effective learning strategies exist but students rarely apply them in real life, what holds them back? Why are students reluctant to use these strategies? And how can we encourage them not only to practice these strategies in controlled settings but also to adopt them actively in their daily learning? These questions have gradually shaped the next stage of my research interests.
+
+Looking ahead, my work aims to bridge the gap between knowing and doing in students' learning. I am particularly interested in understanding the cognitive, motivational, and contextual factors that influence whether students choose to apply effective strategies in authentic settings. By combining laboratory-based experiments with classroom-based interventions, I seek to design and test approaches that not only improve students’ self-regulated learning but also make these practices sustainable in real educational environments. Ultimately, my goal is to generate insights that inform both theory and practice, contributing to learning sciences research while providing evidence-based guidance for educators.
+
+*This section was drafted by me and polished with the assistance of ChatGPT (OpenAI’s GPT-5).*
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 A new paper has published in Learning and Instruction!! In this paper, we focused on the effect of instructor presence and student presence in synchronous online classes on learning. Click [link](https://doi.org/10.1016/j.learninstruc.2025.102131) to have a look! 
