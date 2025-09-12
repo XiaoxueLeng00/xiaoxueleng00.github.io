@@ -28,6 +28,8 @@ I received my bachelor’s and master’s degrees in Psychology from Central Chi
 I am currently a first-year Ph.D. student in Education (Learning Sciences and Psychological Studies) at UNC Chapel Hill. I work as a research assistant under the supervision of [Dr. Matt Bernacki](https://ed.unc.edu/people/matt-bernacki/). My research focuses on understanding students’ self-regulated learning behaviors and developing, testing, and implementing effective interventions to support self-regulated learning in real classroom settings.
 
 In addition, I collaborate with [Dr. Ziyi Kuang](https://www.researchgate.net/profile/Ziyi-Kuang) to investigate how generative learning activities can support student learning, and with Guohao He to examine the influence of parental growth mindset on students’ academic achievement and beliefs.
+
+I am open to collaborations. If you share similar research interests, I would be happy to connect and explore potential opportunities to work together.
 <br/>
 
 ## Research Interests
