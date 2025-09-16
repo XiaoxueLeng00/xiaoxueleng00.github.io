@@ -29,7 +29,7 @@ I am currently a first-year Ph.D. student in Education (Learning Sciences and Ps
 
 In addition, I collaborate with [Dr. Ziyi Kuang](https://www.researchgate.net/profile/Ziyi-Kuang) to investigate how generative learning activities can support student learning, and with Guohao He to examine the influence of parental growth mindset on students’ academic achievement and beliefs.
 
-***I am open to collaborations. If you share similar research interests, I would be happy to connect and explore potential opportunities to work together.***
+*I am open to collaborations. If you share similar research interests, I would be happy to connect and explore potential opportunities to work together.*
 <br/>
 
 ## Research Interests
