@@ -61,7 +61,7 @@ Note: Only published journal articles (in English) here. For other papers, confe
 ## Peer-reviewed Journal Articles (N = 8)
 
 8️⃣ [Beauty lost in AI: Diminished aesthetic judgments of AI paintings among Chinese viewers](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2621277)
-Lin, H., Leng, X., Li, Y., & Wang, Y. (2026) **International Journal of Human-Computer Interaction**
+Lin, H., **Leng, X.**, (co-first author) Li, Y., & Wang, Y. (2026) **International Journal of Human-Computer Interaction**
 
 7️⃣ [No need for webcams with synchronous online learning](https://doi.org/10.1016/j.learninstruc.2025.102131)
 Zhu, W., **Leng, X.**, Mayer, R. E., & Wang, F. (2025) **Learning and Instruction**
