@@ -35,17 +35,20 @@ In addition, I collaborate with [Dr. Ziyi Kuang](https://www.researchgate.net/pr
 ## Research Interests
 
 ***How to help students learn more effectively?*** 
-
 This question drives my research.
 
-Early in my work, I believed the answer lay in improving instructional design, identifying effective learning strategies, and training students to use these strategies. I spent considerable time on exploring these issues. However, through a series of experiments in a large-scale project, I discovered that although students benefited from applying learning strategies in the laboratory, they often reported being unwilling to use them in their everyday learning.
+Early in my work, I believed the answer lay in improving instructional design, identifying effective learning strategies, and training students to use these strategies. Through a series of controlled experiments, I found that students could benefit from applying these strategies in the laboratory. But a recurring pattern troubled me: students often reported being unwilling to use these strategies in their everyday learning. Effective strategies existed, yet students rarely applied them outside the lab.
 
-This finding led me to a new line of inquiry: If effective learning strategies exist but students rarely apply them in real life, what holds them back? Why are students reluctant to use these strategies? And how can we encourage them not only to practice these strategies in controlled settings but also to adopt them actively in their daily learning? These questions have gradually shaped the next stage of my research interests.
+This gap between knowing and doing became the central puzzle of my research. It pushed me to ask harder questions: What holds students back from applying what they have learned? How do cognitive, motivational, and contextual factors shape whether students choose to regulate their own learning in authentic settings? And how can we design interventions that are not just effective in controlled conditions, but sustainable in real educational environments?
 
-Looking ahead, my work aims to bridge the gap between knowing and doing in students' learning. I am particularly interested in understanding the cognitive, motivational, and contextual factors that influence whether students choose to apply effective strategies in authentic settings. By combining laboratory-based experiments with classroom-based interventions, I seek to design and test approaches that not only improve students’ self-regulated learning but also make these practices sustainable in real educational environments. Ultimately, my goal is to generate insights that inform both theory and practice, contributing to learning sciences research while providing evidence-based guidance for educators.
+These questions brought me to UNC Chapel Hill, where my work has shifted from the controlled environment of the laboratory to the complexity of real classrooms. I now study how students engage with learning strategies in authentic educational contexts, using multi-wave field studies, learning management system data, and digital trace data to understand how learning unfolds over time. I am particularly interested in self-regulated learning: how students plan, monitor, and adapt their approaches to learning, and what supports or undermines these processes in practice.
+
+A growing focus of my work is how students learn with AI. As generative AI tools become embedded in academic workflows, new questions have emerged about how students interact with these tools, when AI use supports learning and when it substitutes for it, and how we can help students develop the metacognitive skills to use AI strategically rather than dependently. I am currently involved in research and grant development aimed at advancing the science of learning to learn with AI.
+
+Ultimately, my goal is to generate insights that bridge theory and practice, contributing to learning sciences research while providing evidence-based guidance for educators navigating an increasingly AI-rich world.
 <br/>
 
-*This section was drafted by me and polished with the assistance of ChatGPT (OpenAI’s GPT-5).*
+*This section was drafted by me and polished with the assistance of Claude (Sonnet 4.6).*
 <br/>
 
 # 🔥 News
