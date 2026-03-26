@@ -86,19 +86,25 @@ Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Pe
 
 # 📑 Projects 
 
-## 1️⃣ **How Generating Gestures Improve Children’s Memory on Spatial Information?**
-- Explored the impact of gesture production on children’s memory on spatial information.
+## 1️⃣ **How Does Gesture Mimicry Improve Children’s Memory on Spatial Information?**
+- Explored the impact of gesture mimicry on children’s memory on spatial information.
 - Investigated the *Representational Mapping Hypothesis*, examining how different types of gestures facilitate recall of location and route information among young children.
 - Conducted two experiments with a total of 168 4- and 5-year-old children and analyzed data.
 - Findings showed that producing gestures improved children’s memory, with pointing gestures enhancing location memory and directional and tracing gestures boosting route memory.
 - Currently drafting a manuscript for publication.
 
-## 2️⃣ **No Need for Webcams with Synchronous Online Learning**
-- Investigated the impact of teachers’ and students’ webcam use on synchronous online learning.
-- Collected data from 33 college students, and recorded videos of learning processes.
-- Applied motion energy analysis to examine students' movement and utilized FaceReader to assess emotional responses.
-- Findings suggested students performed better when the instructor turned off the webcam and felt happier when they turned off the webcam.
-- Reviewed and edited the manuscript submitted to a journal.
+## 2️⃣ **Understanding and Supporting Self-Regulated Learning**
+- Exploring self-regulated learning (SRL) behaviors through digital trace data.
+- Investigating behavioral patterns and learning strategies to identify indicators of effective SRL.
+- Developing intervention strategies to support students' self-regulation.
+- Currently collecting and analyzing data from multiple courses.
+
+## 3️⃣ **Contextual Influences on AI Perception and Usage Patterns in Educational Settings**
+- Investigating how contextual factors shape students' and teachers' perceptions and usage of AI tools in educational environments.
+- Exploring how students' attitudes and behaviors toward AI vary across different educational scenarios and contexts.
+- Conducting mixed-methods research across diverse educational settings.
+- Exploring barriers and facilitators to meaningful AI implementation in teaching and learning.
+- Currently in data collection and analysis phase.
 
 # 🎖 Honors and Awards
 *Please see my cv.*
