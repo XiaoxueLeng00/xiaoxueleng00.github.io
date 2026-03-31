@@ -21,6 +21,8 @@ redirect_from:
 Hi! I'm Xiaoxue Leng (冷晓雪). Xiaoxue can be interpreted as "Snow in the morning" or "We know snow is coming"❄️ in Chinese, and Leng means "Cold"🥶. 
 <br/>
 
+❄️I am open to collaborations. If you share similar research interests, I would be happy to connect and explore potential opportunities to work together. If you just want to connect, happy to talk via emails or zoom!❄️<br/>
+
 ## Background
 
 I received my bachelor’s and master’s degrees in Psychology from Central China Normal University. From 2020 to 2024, I worked in the [Learning and Child Development Lab](https://fxwang1.wixsite.com/landcdlab) with [Dr. Fuxing Wang](https://psych.ccnu.edu.cn/info/1132/5162.htm), where I explored how to support learning in technology-based environments and examined the cognitive and metacognitive processes underlying learning. Much of my work involved conducting experiments using methods such as eye-tracking and fNIRS.
@@ -29,7 +31,6 @@ I am currently a first-year Ph.D. student in Education (Learning Sciences and Ps
 
 In addition, I collaborate with [Dr. Ziyi Kuang](https://www.researchgate.net/profile/Ziyi-Kuang) to investigate how generative learning activities can support student learning, and with other colleagues to examine the impact of GenAI on students' learning and behaviors.
 
-❄️I am open to collaborations. If you share similar research interests, I would be happy to connect and explore potential opportunities to work together.❄️
 <br/>
 
 ## Research Interests
