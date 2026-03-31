@@ -50,7 +50,7 @@ Ultimately, my goal is to generate insights that bridge theory and practice, con
 <br/>
 
 *This section was drafted by me and polished with the assistance of Claude (Sonnet 4.6).*
-
+<br/>
 
 # 🔥 News
 - *2026.03*: &nbsp;🎉🎉 New publication alert. Our team investigated how contextual factors influenced people's perception towards AI-created paintings. Click [link](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2621277) to have a look! 
