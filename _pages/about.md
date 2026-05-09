@@ -53,8 +53,8 @@ Ultimately, my goal is to generate insights that bridge theory and practice, con
 <br/>
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 A new publication! My final paper from my master's work has published on **Learning and Instruction**. In this paper, we found gesture mimicry enhanced 4-5-year-olds’ memory of spatial information and higher gesture-content mapping led to better memory performance.  Click [link](https://doi.org/10.1016/j.learninstruc.2026.102388) to have a look! 
 - *2026.03*: &nbsp;🎉🎉 New publication alert. Our team investigated how contextual factors influenced people's perception towards AI-created paintings. Click [link](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2621277) to have a look! 
-- *2025.04*: &nbsp;🎉🎉 A new paper has published in Learning and Instruction!! In this paper, we focused on the effect of instructor presence and student presence in synchronous online classes on learning. Click [link](https://doi.org/10.1016/j.learninstruc.2025.102131) to have a look! 
 
 # 📝 Publications 
 
