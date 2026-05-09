@@ -60,7 +60,9 @@ Ultimately, my goal is to generate insights that bridge theory and practice, con
 
 Note: Only published journal articles (in English) here. For other papers, conferences, and presentations, please see my cv.
 
-## Peer-reviewed Journal Articles (N = 9)
+## Peer-reviewed Journal Articles (N = 10)
+
+1️⃣0️⃣ [How does gesture mimicry improve children’s memory on spatial information?] (https://doi.org/10.1016/j.learninstruc.2026.102388) **Leng, X.**, Wu, Y., Zhang, Q., & Wang, F. (2026) **Learning and Instruction**
 
 9️⃣ [When labels matter more: Behavioral and eye-tracking evidence on aesthetic judgment of AI-generated and human-created paintings by lay viewers](https://doi.org/10.1177/02762374261441560) Wang, Y. **Leng, X.**(co-first author), He, G., Lin, H. (2026) **Empirical Studies of the Arts**
 
