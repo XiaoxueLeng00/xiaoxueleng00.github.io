@@ -16,12 +16,21 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<br/>
 
-Hi! I'm Xiaoxue Leng (冷晓雪). Xiaoxue can be interpreted as "Snow in the morning" or "We know snow is coming"❄️ in Chinese, and Leng means "Cold"🥶. 
-<br/>
+<div class="intro-card" markdown="1">
 
-❄️I am open to collaborations. If you share similar research interests, I would be happy to connect and explore potential opportunities to work together. If you just want to connect, happy to talk via emails or zoom!❄️<br/>
+Hi! I'm **Xiaoxue Leng** (冷晓雪). *Xiaoxue* can be read as "snow in the morning" or "we know snow is coming" ❄️, and *Leng* means "cold" 🥶.
+
+❄️ I am open to collaborations. If you share similar research interests, I would be happy to connect and explore potential opportunities to work together. If you just want to connect, happy to talk via emails or Zoom! ❄️
+
+<ul class="quick-facts">
+  <li>📍&nbsp;Chapel Hill, NC</li>
+  <li>🎓&nbsp;Ph.D. Student, Learning Sciences &amp; Psychological Studies, UNC&nbsp;Chapel&nbsp;Hill</li>
+  <li>✉️&nbsp;<a href="mailto:xiaoxuel@unc.edu">xiaoxuel@unc.edu</a></li>
+  <li>📄&nbsp;<a href="https://scholar.google.com/citations?user=6Dd5rjQAAAAJ&hl=en">Google Scholar</a></li>
+</ul>
+
+</div>
 
 ## Background
 
@@ -31,12 +40,9 @@ I am currently a first-year Ph.D. student in Education (Learning Sciences and Ps
 
 In addition, I collaborate with [Dr. Ziyi Kuang](https://www.researchgate.net/profile/Ziyi-Kuang) to investigate how generative learning activities can support student learning, and with other colleagues to examine the impact of GenAI on students' learning and behaviors.
 
-<br/>
-
 ## Research Interests
 
-***How to help students learn more effectively?*** 
-This question drives my research.
+***How to help students learn more effectively?*** This question drives my research.
 
 Early in my work, I believed the answer lay in improving instructional design, identifying effective learning strategies, and training students to use these strategies. Through a series of controlled experiments, I found that students could benefit from applying these strategies in the laboratory. But a recurring pattern troubled me: students often reported being unwilling to use these strategies in their everyday learning. Effective strategies existed, yet students rarely applied them outside the lab.
 
@@ -47,88 +53,124 @@ These questions brought me to UNC Chapel Hill, where my work has shifted from th
 A growing focus of my work is how students learn with AI. As generative AI tools become embedded in academic workflows, new questions have emerged about how students interact with these tools, when AI use supports learning and when it substitutes for it, and how we can help students develop the metacognitive skills to use AI strategically rather than dependently. I am currently involved in research and grant development aimed at advancing the science of learning to learn with AI.
 
 Ultimately, my goal is to generate insights that bridge theory and practice, contributing to learning sciences research while providing evidence-based guidance for educators navigating an increasingly AI-rich world.
-<br/>
 
 *This section was drafted by me and polished with the assistance of Claude (Sonnet 4.6).*
-<br/>
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 A new publication! My final paper from my master's work has published on **Learning and Instruction**. In this paper, we found gesture mimicry enhanced 4-5-year-olds’ memory of spatial information and higher gesture-content mapping led to better memory performance.  Click [link](https://doi.org/10.1016/j.learninstruc.2026.102388) to have a look! 
-- *2026.03*: &nbsp;🎉🎉 New publication alert. Our team investigated how contextual factors influenced people's perception towards AI-created paintings. Click [link](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2621277) to have a look! 
 
-# 📝 Publications 
+<div class="timeline-list" markdown="1">
+- *2026.05* &nbsp;🎉 A new publication! My final paper from my master's work has been published in **Learning and Instruction**. We found that gesture mimicry enhanced 4–5-year-olds' memory of spatial information, and higher gesture-content mapping led to better memory performance. [Read the paper →](https://doi.org/10.1016/j.learninstruc.2026.102388)
+- *2026.03* &nbsp;🎉 New publication alert! Our team investigated how contextual factors influence people's perception of AI-created paintings. [Read the paper →](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2621277)
+</div>
 
-Note: Only published journal articles (in English) here. For other papers, conferences, and presentations, please see my cv.
+# 📝 Publications
+
+Note: Only published journal articles (in English) here. For other papers, conferences, and presentations, please see my CV.
 
 ## Peer-reviewed Journal Articles (First or Co-first author; N = 6)
 
-6️⃣ [How does gesture mimicry improve children’s memory on spatial information?](https://doi.org/10.1016/j.learninstruc.2026.102388) 
-**Leng, X.**, Wu, Y., Zhang, Q., & Wang, F. (2026) **Learning and Instruction**
+<div class="pub-card" markdown="1">
+6️⃣ **[How does gesture mimicry improve children’s memory on spatial information?](https://doi.org/10.1016/j.learninstruc.2026.102388)**
+<br/>**Leng, X.**, Wu, Y., Zhang, Q., & Wang, F. (2026) <span class="venue-badge">Learning and Instruction</span>
+</div>
 
-5️⃣ [When labels matter more: Behavioral and eye-tracking evidence on aesthetic judgment of AI-generated and human-created paintings by lay viewers](https://doi.org/10.1177/02762374261441560) 
-Wang, Y. **Leng, X.**(co-first author), He, G., Lin, H. (2026) **Empirical Studies of the Arts**
+<div class="pub-card" markdown="1">
+5️⃣ **[When labels matter more: Behavioral and eye-tracking evidence on aesthetic judgment of AI-generated and human-created paintings by lay viewers](https://doi.org/10.1177/02762374261441560)**
+<br/>Wang, Y. **Leng, X.** (co-first author), He, G., Lin, H. (2026) <span class="venue-badge">Empirical Studies of the Arts</span>
+</div>
 
-4️⃣ [Beauty lost in AI: Diminished aesthetic judgments of AI paintings among Chinese viewers](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2621277)
-Lin, H., **Leng, X.**(co-first author), Li, Y., & Wang, Y. (2026) **International Journal of Human-Computer Interaction**
+<div class="pub-card" markdown="1">
+4️⃣ **[Beauty lost in AI: Diminished aesthetic judgments of AI paintings among Chinese viewers](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2621277)**
+<br/>Lin, H., **Leng, X.** (co-first author), Li, Y., & Wang, Y. (2026) <span class="venue-badge">International Journal of Human-Computer Interaction</span>
+</div>
 
-3️⃣ [The viewing perspective effect in learning from instructional videos: A replication and neuroimaging extension](https://doi.org/10.1016/j.learninstruc.2024.102004)
-**Leng, X.**, Zhu, W., Mayer, R. E., & Wang, F. (2024) **Learning and Instruction**
+<div class="pub-card" markdown="1">
+3️⃣ **[The viewing perspective effect in learning from instructional videos: A replication and neuroimaging extension](https://doi.org/10.1016/j.learninstruc.2024.102004)**
+<br/>**Leng, X.**, Zhu, W., Mayer, R. E., & Wang, F. (2024) <span class="venue-badge">Learning and Instruction</span>
+</div>
 
-2️⃣ [How to train students to engage in text-picture integration for multimedia lessons](https://doi.org/10.1111/bjet.13419)
-**Leng, X.**, Wang, F., Mayer, R. E., & Zhao, T. (2024) **British Journal of Educational Technology**
+<div class="pub-card" markdown="1">
+2️⃣ **[How to train students to engage in text-picture integration for multimedia lessons](https://doi.org/10.1111/bjet.13419)**
+<br/>**Leng, X.**, Wang, F., Mayer, R. E., & Zhao, T. (2024) <span class="venue-badge">British Journal of Educational Technology</span>
+</div>
 
-1️⃣ [Is student learning from a video lecture affected by whether the instructor wears a mask?](https://doi.org/10.1002/acp.4169)
-**Leng, X.**, Wang, F., & Mayer, R. E. (2024) **Applied Cognitive Psychology**
+<div class="pub-card" markdown="1">
+1️⃣ **[Is student learning from a video lecture affected by whether the instructor wears a mask?](https://doi.org/10.1002/acp.4169)**
+<br/>**Leng, X.**, Wang, F., & Mayer, R. E. (2024) <span class="venue-badge">Applied Cognitive Psychology</span>
+</div>
 
 ## Peer-reviewed Journal Articles (Other author; N = 6)
 
-6️⃣ [How to evaluate students’ mathematical modeling competencies: Construction and verification of a new evaluation framework for mathematical modeling competencies](https://doi.org/10.1007/s12144-026-09769-0)
-He, G., Lin, H., **Leng, X.**, & Su, A. (2026) **Current Psychology**
+<div class="pub-card" markdown="1">
+6️⃣ **[How to evaluate students’ mathematical modeling competencies: Construction and verification of a new evaluation framework for mathematical modeling competencies](https://doi.org/10.1007/s12144-026-09769-0)**
+<br/>He, G., Lin, H., **Leng, X.**, & Su, A. (2026) <span class="venue-badge">Current Psychology</span>
+</div>
 
-5️⃣ [Reciprocal relationships between perceived teachers’ moral grandstanding, self-esteem, and rumination among Chinese primary school students: An RI-CLPM Study](https://doi.org/10.1007/s10964-026-02381-2)
- Lin, H., Ding, J., **Leng, X.**, He, G., Lin, Y., & Zheng, H. (2026) **Journal of Youth and Adolescence**
+<div class="pub-card" markdown="1">
+5️⃣ **[Reciprocal relationships between perceived teachers’ moral grandstanding, self-esteem, and rumination among Chinese primary school students: An RI-CLPM Study](https://doi.org/10.1007/s10964-026-02381-2)**
+<br/>Lin, H., Ding, J., **Leng, X.**, He, G., Lin, Y., & Zheng, H. (2026) <span class="venue-badge">Journal of Youth and Adolescence</span>
+</div>
 
-4️⃣ [No need for webcams with synchronous online learning](https://doi.org/10.1016/j.learninstruc.2025.102131)
-Zhu, W., **Leng, X.**, Mayer, R. E., & Wang, F. (2025) **Learning and Instruction**
+<div class="pub-card" markdown="1">
+4️⃣ **[No need for webcams with synchronous online learning](https://doi.org/10.1016/j.learninstruc.2025.102131)**
+<br/>Zhu, W., **Leng, X.**, Mayer, R. E., & Wang, F. (2025) <span class="venue-badge">Learning and Instruction</span>
+</div>
 
-3️⃣ [Eye movement modelling examples as cues to guide attention and improve learning in short or long animations](https://doi.org/10.1111/jcal.13094)
-Wang, F., **Leng, X.**, Kuang, Z., & Zhao, T. (2024) **Journal of Computer Assisted Learning**
+<div class="pub-card" markdown="1">
+3️⃣ **[Eye movement modelling examples as cues to guide attention and improve learning in short or long animations](https://doi.org/10.1111/jcal.13094)**
+<br/>Wang, F., **Leng, X.**, Kuang, Z., & Zhao, T. (2024) <span class="venue-badge">Journal of Computer Assisted Learning</span>
+</div>
 
-2️⃣ [Role of gesturing onscreen instructors in video lectures: A set of three-level meta-analyses on the embodiment effect](https://doi.org/10.1007/s10648-024-09910-0)
-Li, W., Kuang, Z., **Leng, X.**, Mayer, R. E., & Wang, F. (2024) **Educational Psychology Review**
+<div class="pub-card" markdown="1">
+2️⃣ **[Role of gesturing onscreen instructors in video lectures: A set of three-level meta-analyses on the embodiment effect](https://doi.org/10.1007/s10648-024-09910-0)**
+<br/>Li, W., Kuang, Z., **Leng, X.**, Mayer, R. E., & Wang, F. (2024) <span class="venue-badge">Educational Psychology Review</span>
+</div>
 
-1️⃣ [The effect of different question types on vicarious learning](https://doi.org/10.1080/01443410.2024.2325589)
-Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Peng, S., & Hu, X. (2024) **Educational Psychology**
+<div class="pub-card" markdown="1">
+1️⃣ **[The effect of different question types on vicarious learning](https://doi.org/10.1080/01443410.2024.2325589)**
+<br/>Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Peng, S., & Hu, X. (2024) <span class="venue-badge">Educational Psychology</span>
+</div>
 
-# 📑 Projects 
+# 📑 Projects
 
-## 1️⃣ **How Does Gesture Mimicry Improve Children’s Memory on Spatial Information?**
+<div class="project-card" markdown="1">
+## 1️⃣ How Does Gesture Mimicry Improve Children’s Memory on Spatial Information?
 - Explored the impact of gesture mimicry on children’s memory on spatial information.
 - Investigated the *Representational Mapping Hypothesis*, examining how different types of gestures facilitate recall of location and route information among young children.
 - Conducted two experiments with a total of 168 4- and 5-year-old children and analyzed data.
 - Findings showed that producing gestures improved children’s memory, with pointing gestures enhancing location memory and directional and tracing gestures boosting route memory.
 - Currently drafting a manuscript for publication.
+</div>
 
-## 2️⃣ **Understanding and Supporting Self-Regulated Learning**
+<div class="project-card" markdown="1">
+## 2️⃣ Understanding and Supporting Self-Regulated Learning
 - Exploring self-regulated learning (SRL) behaviors through digital trace data.
 - Investigating behavioral patterns and learning strategies to identify indicators of effective SRL.
 - Developing intervention strategies to support students' self-regulation.
 - Currently collecting and analyzing data from multiple courses.
+</div>
 
-## 3️⃣ **Contextual Influences on AI Perception and Usage Patterns in Educational Settings**
+<div class="project-card" markdown="1">
+## 3️⃣ Contextual Influences on AI Perception and Usage Patterns in Educational Settings
 - Investigating how contextual factors shape students' and teachers' perceptions and usage of AI tools in educational environments.
 - Exploring how students' attitudes and behaviors toward AI vary across different educational scenarios and contexts.
 - Conducting mixed-methods research across diverse educational settings.
 - Exploring barriers and facilitators to meaningful AI implementation in teaching and learning.
 - Currently in data collection and analysis phase.
+</div>
 
 # 🎖 Honors and Awards
-*Please see my cv.*
 
-# 📖 Educations
-- *2025 - 2030* &emsp; Ph.D. in Education, Unversity of North Carolina at Chapel Hill.
-- *2021 - 2024* &emsp; M.Ed. in Psychology, Central China Normal University. 
-- *2017 - 2021* &emsp; B.S. in Psychology, Central China Normal University. 
+*Please see my CV.*
+
+# 📖 Education
+
+<div class="timeline-list" markdown="1">
+- *2025 – 2030* &emsp; Ph.D. in Education, University of North Carolina at Chapel Hill.
+- *2021 – 2024* &emsp; M.Ed. in Psychology, Central China Normal University.
+- *2017 – 2021* &emsp; B.S. in Psychology, Central China Normal University.
+</div>
 
 # 💬 Invited Talks
+
 *Not yet.*
