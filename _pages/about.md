@@ -69,154 +69,106 @@ Note: Only published journal articles (in English) here. For other papers, confe
 
 ## Peer-reviewed Journal Articles (First or Co-first author; N = 6)
 
-<div class="pub-card">
-  <span class="pub-num">6</span>
-  <div class="pub-body" markdown="1">
+<div class="pub-card" markdown="1">
 **[How does gesture mimicry improve children’s memory on spatial information?](https://doi.org/10.1016/j.learninstruc.2026.102388)**
 
 **Leng, X.**, Wu, Y., Zhang, Q., & Wang, F. (2026) <span class="venue-badge">Learning and Instruction</span> <span class="if-tag">IF 5.7</span> <span class="quartile-tag q1">Q1 · 2025</span>
-  </div>
 </div>
 
-<div class="pub-card">
-  <span class="pub-num">5</span>
-  <div class="pub-body" markdown="1">
+<div class="pub-card" markdown="1">
 **[When labels matter more: Behavioral and eye-tracking evidence on aesthetic judgment of AI-generated and human-created paintings by lay viewers](https://doi.org/10.1177/02762374261441560)**
 
 Wang, Y. **Leng, X.** (co-first author), He, G., Lin, H. (2026) <span class="venue-badge">Empirical Studies of the Arts</span> <span class="if-tag">IF 1.5</span> <span class="quartile-tag q3">Q3 · 2025</span>
-  </div>
 </div>
 
-<div class="pub-card">
-  <span class="pub-num">4</span>
-  <div class="pub-body" markdown="1">
+<div class="pub-card" markdown="1">
 **[Beauty lost in AI: Diminished aesthetic judgments of AI paintings among Chinese viewers](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2621277)**
 
 Lin, H., **Leng, X.** (co-first author), Li, Y., & Wang, Y. (2026) <span class="venue-badge">International Journal of Human-Computer Interaction</span> <span class="if-tag">IF 6.1</span> <span class="quartile-tag q1">Q1 · 2025</span>
-  </div>
 </div>
 
-<div class="pub-card">
-  <span class="pub-num">3</span>
-  <div class="pub-body" markdown="1">
+<div class="pub-card" markdown="1">
 **[The viewing perspective effect in learning from instructional videos: A replication and neuroimaging extension](https://doi.org/10.1016/j.learninstruc.2024.102004)**
 
 **Leng, X.**, Zhu, W., Mayer, R. E., & Wang, F. (2024) <span class="venue-badge">Learning and Instruction</span> <span class="if-tag">IF 4.7</span> <span class="quartile-tag q1">Q1 · 2023</span>
-  </div>
 </div>
 
-<div class="pub-card">
-  <span class="pub-num">2</span>
-  <div class="pub-body" markdown="1">
+<div class="pub-card" markdown="1">
 **[How to train students to engage in text-picture integration for multimedia lessons](https://doi.org/10.1111/bjet.13419)**
 
 **Leng, X.**, Wang, F., Mayer, R. E., & Zhao, T. (2024) <span class="venue-badge">British Journal of Educational Technology</span> <span class="if-tag">IF 6.7</span> <span class="quartile-tag q1">Q1 · 2023</span>
-  </div>
 </div>
 
-<div class="pub-card">
-  <span class="pub-num">1</span>
-  <div class="pub-body" markdown="1">
+<div class="pub-card" markdown="1">
 **[Is student learning from a video lecture affected by whether the instructor wears a mask?](https://doi.org/10.1002/acp.4169)**
 
 **Leng, X.**, Wang, F., & Mayer, R. E. (2024) <span class="venue-badge">Applied Cognitive Psychology</span> <span class="if-tag">IF 2.1</span> <span class="quartile-tag q2">Q2 · 2023</span>
-  </div>
 </div>
 
 ## Peer-reviewed Journal Articles (Other author; N = 6)
 
-<div class="pub-card">
-  <span class="pub-num">6</span>
-  <div class="pub-body" markdown="1">
+<div class="pub-card" markdown="1">
 **[How to evaluate students’ mathematical modeling competencies: Construction and verification of a new evaluation framework for mathematical modeling competencies](https://doi.org/10.1007/s12144-026-09769-0)**
 
 He, G., Lin, H., **Leng, X.**, & Su, A. (2026) <span class="venue-badge">Current Psychology</span> <span class="if-tag">IF 2.7</span> <span class="quartile-tag q2">Q2 · 2025</span>
-  </div>
 </div>
 
-<div class="pub-card">
-  <span class="pub-num">5</span>
-  <div class="pub-body" markdown="1">
+<div class="pub-card" markdown="1">
 **[Reciprocal relationships between perceived teachers’ moral grandstanding, self-esteem, and rumination among Chinese primary school students: An RI-CLPM Study](https://doi.org/10.1007/s10964-026-02381-2)**
 
 Lin, H., Ding, J., **Leng, X.**, He, G., Lin, Y., & Zheng, H. (2026) <span class="venue-badge">Journal of Youth and Adolescence</span> <span class="if-tag">IF 4.5</span> <span class="quartile-tag q1">Q1 · 2025</span>
-  </div>
 </div>
 
-<div class="pub-card">
-  <span class="pub-num">4</span>
-  <div class="pub-body" markdown="1">
+<div class="pub-card" markdown="1">
 **[No need for webcams with synchronous online learning](https://doi.org/10.1016/j.learninstruc.2025.102131)**
 
 Zhu, W., **Leng, X.**, Mayer, R. E., & Wang, F. (2025) <span class="venue-badge">Learning and Instruction</span> <span class="if-tag">IF 4.9</span> <span class="quartile-tag q1">Q1 · 2024</span>
-  </div>
 </div>
 
-<div class="pub-card">
-  <span class="pub-num">3</span>
-  <div class="pub-body" markdown="1">
+<div class="pub-card" markdown="1">
 **[Eye movement modelling examples as cues to guide attention and improve learning in short or long animations](https://doi.org/10.1111/jcal.13094)**
 
 Wang, F., **Leng, X.**, Kuang, Z., & Zhao, T. (2024) <span class="venue-badge">Journal of Computer Assisted Learning</span> <span class="if-tag">IF 5.1</span> <span class="quartile-tag q1">Q1 · 2023</span>
-  </div>
 </div>
 
-<div class="pub-card">
-  <span class="pub-num">2</span>
-  <div class="pub-body" markdown="1">
+<div class="pub-card" markdown="1">
 **[Role of gesturing onscreen instructors in video lectures: A set of three-level meta-analyses on the embodiment effect](https://doi.org/10.1007/s10648-024-09910-0)**
 
 Li, W., Kuang, Z., **Leng, X.**, Mayer, R. E., & Wang, F. (2024) <span class="venue-badge">Educational Psychology Review</span> <span class="if-tag">IF 10.1</span> <span class="quartile-tag q1">Q1 · 2023</span>
-  </div>
 </div>
 
-<div class="pub-card">
-  <span class="pub-num">1</span>
-  <div class="pub-body" markdown="1">
+<div class="pub-card" markdown="1">
 **[The effect of different question types on vicarious learning](https://doi.org/10.1080/01443410.2024.2325589)**
 
 Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Peng, S., & Hu, X. (2024) <span class="venue-badge">Educational Psychology</span> <span class="if-tag">IF 3.6</span> <span class="quartile-tag q1">Q1 · 2023</span>
-  </div>
 </div>
 
 # 📑 Projects
 
-<div class="project-card">
-  <div class="project-card__header">
-    <span class="project-num">1</span>
-    <h2>How Does Gesture Mimicry Improve Children’s Memory on Spatial Information?</h2>
-  </div>
-  <div markdown="1">
+<div class="project-card" markdown="1">
+## How Does Gesture Mimicry Improve Children’s Memory on Spatial Information?
+
 - Explored the impact of gesture mimicry on children’s memory on spatial information.
 - Investigated the *Representational Mapping Hypothesis*, examining how different types of gestures facilitate recall of location and route information among young children.
 - Conducted two experiments with a total of 168 4- and 5-year-old children and analyzed data.
 - Findings showed that producing gestures improved children’s memory, with pointing gestures enhancing location memory and directional and tracing gestures boosting route memory.
-  </div>
 </div>
 
-<div class="project-card">
-  <div class="project-card__header">
-    <span class="project-num">2</span>
-    <h2>Understanding and Supporting Self-Regulated Learning</h2>
-  </div>
-  <div markdown="1">
+<div class="project-card" markdown="1">
+## Understanding and Supporting Self-Regulated Learning
+
 - Exploring self-regulated learning (SRL) behaviors through digital trace data.
 - Investigating behavioral patterns and learning strategies to identify indicators of effective SRL.
 - Developing intervention strategies to support students' self-regulation.
-  </div>
 </div>
 
-<div class="project-card">
-  <div class="project-card__header">
-    <span class="project-num">3</span>
-    <h2>Contextual Influences on AI Perception and Usage Patterns in Educational Settings</h2>
-  </div>
-  <div markdown="1">
+<div class="project-card" markdown="1">
+## Contextual Influences on AI Perception and Usage Patterns in Educational Settings
+
 - Investigating how contextual factors shape students' and teachers' perceptions and usage of AI tools in educational environments.
 - Exploring how students' attitudes and behaviors toward AI vary across different educational scenarios and contexts.
 - Conducting mixed-methods research across diverse educational settings.
 - Exploring barriers and facilitators to meaningful AI implementation in teaching and learning.
-  </div>
 </div>
 
 # 🎖 Honors and Awards
