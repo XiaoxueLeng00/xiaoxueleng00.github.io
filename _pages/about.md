@@ -192,7 +192,6 @@ Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Pe
 - Conducted two experiments with a total of 168 4- and 5-year-old children and analyzed data.
 - Findings showed that producing gestures improved children’s memory, with pointing gestures enhancing location memory and directional and tracing gestures boosting route memory.
   </div>
-  <span class="project-status status-drafting">📝 Drafting manuscript</span>
 </div>
 
 <div class="project-card">
@@ -205,7 +204,6 @@ Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Pe
 - Investigating behavioral patterns and learning strategies to identify indicators of effective SRL.
 - Developing intervention strategies to support students' self-regulation.
   </div>
-  <span class="project-status status-progress">📊 Data collection &amp; analysis</span>
 </div>
 
 <div class="project-card">
@@ -219,7 +217,6 @@ Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Pe
 - Conducting mixed-methods research across diverse educational settings.
 - Exploring barriers and facilitators to meaningful AI implementation in teaching and learning.
   </div>
-  <span class="project-status status-progress">📊 Data collection &amp; analysis</span>
 </div>
 
 # 🎖 Honors and Awards
