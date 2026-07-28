@@ -69,66 +69,114 @@ Note: Only published journal articles (in English) here. For other papers, confe
 
 ## Peer-reviewed Journal Articles (First or Co-first author; N = 6)
 
-<div class="pub-card" markdown="1">
-6️⃣ **[How does gesture mimicry improve children’s memory on spatial information?](https://doi.org/10.1016/j.learninstruc.2026.102388)**
-<br/>**Leng, X.**, Wu, Y., Zhang, Q., & Wang, F. (2026) <span class="venue-badge">Learning and Instruction</span>
+<div class="pub-card">
+  <span class="pub-num">6</span>
+  <div class="pub-body" markdown="1">
+**[How does gesture mimicry improve children’s memory on spatial information?](https://doi.org/10.1016/j.learninstruc.2026.102388)**
+
+**Leng, X.**, Wu, Y., Zhang, Q., & Wang, F. (2026) <span class="venue-badge">Learning and Instruction</span>
+  </div>
 </div>
 
-<div class="pub-card" markdown="1">
-5️⃣ **[When labels matter more: Behavioral and eye-tracking evidence on aesthetic judgment of AI-generated and human-created paintings by lay viewers](https://doi.org/10.1177/02762374261441560)**
-<br/>Wang, Y. **Leng, X.** (co-first author), He, G., Lin, H. (2026) <span class="venue-badge">Empirical Studies of the Arts</span>
+<div class="pub-card">
+  <span class="pub-num">5</span>
+  <div class="pub-body" markdown="1">
+**[When labels matter more: Behavioral and eye-tracking evidence on aesthetic judgment of AI-generated and human-created paintings by lay viewers](https://doi.org/10.1177/02762374261441560)**
+
+Wang, Y. **Leng, X.** (co-first author), He, G., Lin, H. (2026) <span class="venue-badge">Empirical Studies of the Arts</span>
+  </div>
 </div>
 
-<div class="pub-card" markdown="1">
-4️⃣ **[Beauty lost in AI: Diminished aesthetic judgments of AI paintings among Chinese viewers](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2621277)**
-<br/>Lin, H., **Leng, X.** (co-first author), Li, Y., & Wang, Y. (2026) <span class="venue-badge">International Journal of Human-Computer Interaction</span>
+<div class="pub-card">
+  <span class="pub-num">4</span>
+  <div class="pub-body" markdown="1">
+**[Beauty lost in AI: Diminished aesthetic judgments of AI paintings among Chinese viewers](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2621277)**
+
+Lin, H., **Leng, X.** (co-first author), Li, Y., & Wang, Y. (2026) <span class="venue-badge">International Journal of Human-Computer Interaction</span>
+  </div>
 </div>
 
-<div class="pub-card" markdown="1">
-3️⃣ **[The viewing perspective effect in learning from instructional videos: A replication and neuroimaging extension](https://doi.org/10.1016/j.learninstruc.2024.102004)**
-<br/>**Leng, X.**, Zhu, W., Mayer, R. E., & Wang, F. (2024) <span class="venue-badge">Learning and Instruction</span>
+<div class="pub-card">
+  <span class="pub-num">3</span>
+  <div class="pub-body" markdown="1">
+**[The viewing perspective effect in learning from instructional videos: A replication and neuroimaging extension](https://doi.org/10.1016/j.learninstruc.2024.102004)**
+
+**Leng, X.**, Zhu, W., Mayer, R. E., & Wang, F. (2024) <span class="venue-badge">Learning and Instruction</span>
+  </div>
 </div>
 
-<div class="pub-card" markdown="1">
-2️⃣ **[How to train students to engage in text-picture integration for multimedia lessons](https://doi.org/10.1111/bjet.13419)**
-<br/>**Leng, X.**, Wang, F., Mayer, R. E., & Zhao, T. (2024) <span class="venue-badge">British Journal of Educational Technology</span>
+<div class="pub-card">
+  <span class="pub-num">2</span>
+  <div class="pub-body" markdown="1">
+**[How to train students to engage in text-picture integration for multimedia lessons](https://doi.org/10.1111/bjet.13419)**
+
+**Leng, X.**, Wang, F., Mayer, R. E., & Zhao, T. (2024) <span class="venue-badge">British Journal of Educational Technology</span>
+  </div>
 </div>
 
-<div class="pub-card" markdown="1">
-1️⃣ **[Is student learning from a video lecture affected by whether the instructor wears a mask?](https://doi.org/10.1002/acp.4169)**
-<br/>**Leng, X.**, Wang, F., & Mayer, R. E. (2024) <span class="venue-badge">Applied Cognitive Psychology</span>
+<div class="pub-card">
+  <span class="pub-num">1</span>
+  <div class="pub-body" markdown="1">
+**[Is student learning from a video lecture affected by whether the instructor wears a mask?](https://doi.org/10.1002/acp.4169)**
+
+**Leng, X.**, Wang, F., & Mayer, R. E. (2024) <span class="venue-badge">Applied Cognitive Psychology</span>
+  </div>
 </div>
 
 ## Peer-reviewed Journal Articles (Other author; N = 6)
 
-<div class="pub-card" markdown="1">
-6️⃣ **[How to evaluate students’ mathematical modeling competencies: Construction and verification of a new evaluation framework for mathematical modeling competencies](https://doi.org/10.1007/s12144-026-09769-0)**
-<br/>He, G., Lin, H., **Leng, X.**, & Su, A. (2026) <span class="venue-badge">Current Psychology</span>
+<div class="pub-card">
+  <span class="pub-num">6</span>
+  <div class="pub-body" markdown="1">
+**[How to evaluate students’ mathematical modeling competencies: Construction and verification of a new evaluation framework for mathematical modeling competencies](https://doi.org/10.1007/s12144-026-09769-0)**
+
+He, G., Lin, H., **Leng, X.**, & Su, A. (2026) <span class="venue-badge">Current Psychology</span>
+  </div>
 </div>
 
-<div class="pub-card" markdown="1">
-5️⃣ **[Reciprocal relationships between perceived teachers’ moral grandstanding, self-esteem, and rumination among Chinese primary school students: An RI-CLPM Study](https://doi.org/10.1007/s10964-026-02381-2)**
-<br/>Lin, H., Ding, J., **Leng, X.**, He, G., Lin, Y., & Zheng, H. (2026) <span class="venue-badge">Journal of Youth and Adolescence</span>
+<div class="pub-card">
+  <span class="pub-num">5</span>
+  <div class="pub-body" markdown="1">
+**[Reciprocal relationships between perceived teachers’ moral grandstanding, self-esteem, and rumination among Chinese primary school students: An RI-CLPM Study](https://doi.org/10.1007/s10964-026-02381-2)**
+
+Lin, H., Ding, J., **Leng, X.**, He, G., Lin, Y., & Zheng, H. (2026) <span class="venue-badge">Journal of Youth and Adolescence</span>
+  </div>
 </div>
 
-<div class="pub-card" markdown="1">
-4️⃣ **[No need for webcams with synchronous online learning](https://doi.org/10.1016/j.learninstruc.2025.102131)**
-<br/>Zhu, W., **Leng, X.**, Mayer, R. E., & Wang, F. (2025) <span class="venue-badge">Learning and Instruction</span>
+<div class="pub-card">
+  <span class="pub-num">4</span>
+  <div class="pub-body" markdown="1">
+**[No need for webcams with synchronous online learning](https://doi.org/10.1016/j.learninstruc.2025.102131)**
+
+Zhu, W., **Leng, X.**, Mayer, R. E., & Wang, F. (2025) <span class="venue-badge">Learning and Instruction</span>
+  </div>
 </div>
 
-<div class="pub-card" markdown="1">
-3️⃣ **[Eye movement modelling examples as cues to guide attention and improve learning in short or long animations](https://doi.org/10.1111/jcal.13094)**
-<br/>Wang, F., **Leng, X.**, Kuang, Z., & Zhao, T. (2024) <span class="venue-badge">Journal of Computer Assisted Learning</span>
+<div class="pub-card">
+  <span class="pub-num">3</span>
+  <div class="pub-body" markdown="1">
+**[Eye movement modelling examples as cues to guide attention and improve learning in short or long animations](https://doi.org/10.1111/jcal.13094)**
+
+Wang, F., **Leng, X.**, Kuang, Z., & Zhao, T. (2024) <span class="venue-badge">Journal of Computer Assisted Learning</span>
+  </div>
 </div>
 
-<div class="pub-card" markdown="1">
-2️⃣ **[Role of gesturing onscreen instructors in video lectures: A set of three-level meta-analyses on the embodiment effect](https://doi.org/10.1007/s10648-024-09910-0)**
-<br/>Li, W., Kuang, Z., **Leng, X.**, Mayer, R. E., & Wang, F. (2024) <span class="venue-badge">Educational Psychology Review</span>
+<div class="pub-card">
+  <span class="pub-num">2</span>
+  <div class="pub-body" markdown="1">
+**[Role of gesturing onscreen instructors in video lectures: A set of three-level meta-analyses on the embodiment effect](https://doi.org/10.1007/s10648-024-09910-0)**
+
+Li, W., Kuang, Z., **Leng, X.**, Mayer, R. E., & Wang, F. (2024) <span class="venue-badge">Educational Psychology Review</span>
+  </div>
 </div>
 
-<div class="pub-card" markdown="1">
-1️⃣ **[The effect of different question types on vicarious learning](https://doi.org/10.1080/01443410.2024.2325589)**
-<br/>Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Peng, S., & Hu, X. (2024) <span class="venue-badge">Educational Psychology</span>
+<div class="pub-card">
+  <span class="pub-num">1</span>
+  <div class="pub-body" markdown="1">
+**[The effect of different question types on vicarious learning](https://doi.org/10.1080/01443410.2024.2325589)**
+
+Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Peng, S., & Hu, X. (2024) <span class="venue-badge">Educational Psychology</span>
+  </div>
 </div>
 
 # 📑 Projects
