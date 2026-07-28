@@ -165,10 +165,34 @@
   white-space: nowrap;
 }
 
+.if-tag {
+  font-size: $type-size-7;
+  color: $dark-gray;
+  margin-left: 0.5em;
+  white-space: nowrap;
+}
+
+.quartile-tag {
+  display: inline-block;
+  padding: 0.05em 0.6em;
+  margin-left: 0.35em;
+  font-size: $type-size-8;
+  font-weight: 700;
+  color: #fff;
+  border-radius: 999px;
+  white-space: nowrap;
+
+  &.q1 { background: #2f9e44; }
+  &.q2 { background: #1f7a99; }
+  &.q3 { background: #e8a33d; }
+  &.q4 { background: #9aa0a6; }
+}
+
 /* Project cards
    ========================================================================== */
 .project-card {
   border: 1px solid $border-color;
+  border-left: 3px solid $accent-color-dark;
   border-radius: $border-radius;
   padding: 1em 1.25em 1.1em;
   margin-bottom: 1.1em;
@@ -177,14 +201,70 @@
 
   &:hover {
     box-shadow: $box-shadow;
+    border-left-color: $primary-color;
+  }
+}
+
+.project-card__header {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.7em;
+  margin-bottom: 0.4em;
+}
+
+.project-num {
+  flex: 0 0 auto;
+  width: 26px;
+  height: 26px;
+  margin-top: 0.2em;
+  border-radius: 50%;
+  background: $accent-color-dark;
+  color: #fff;
+  font-size: 0.8em;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.project-card h2 {
+  margin: 0;
+  font-size: $type-size-4;
+}
+
+.project-card ul {
+  margin: 0 0 0.7em;
+  padding-left: 1.3em;
+
+  li {
+    margin-bottom: 0.35em;
+    padding-left: 0.2em;
+
+    &::marker {
+      color: $accent-color-dark;
+    }
   }
 
-  h2 {
-    margin-top: 0;
-  }
-
-  ul {
+  li:last-child {
     margin-bottom: 0;
+  }
+}
+
+.project-status {
+  display: inline-block;
+  padding: 0.15em 0.8em;
+  font-size: $type-size-7;
+  font-weight: 600;
+  border-radius: 999px;
+
+  &.status-progress {
+    background: rgba(232, 163, 61, 0.15);
+    color: #a8720c;
+  }
+
+  &.status-drafting {
+    background: rgba(33, 158, 188, 0.12);
+    color: $info-color;
   }
 }
 
