@@ -52,6 +52,8 @@
 /* Section headings
    ========================================================================== */
 .page__content {
+  counter-reset: pub project;
+
   h1 {
     display: flex;
     align-items: center;
@@ -93,17 +95,15 @@
   }
 }
 
-/* Publication cards
+/* Publication cards — numbered via CSS counter, no markup needed
    ========================================================================== */
 .pub-card {
-  display: flex;
-  align-items: flex-start;
-  gap: 0.9em;
+  position: relative;
   background: $card-bg;
   border: 1px solid $border-color;
   border-left: 3px solid $accent-color-dark;
   border-radius: $border-radius;
-  padding: 0.85em 1.2em;
+  padding: 0.85em 1.2em 0.85em 3.1em;
   margin-bottom: 0.75em;
   transition: $global-transition;
 
@@ -111,26 +111,23 @@
     box-shadow: $box-shadow;
     border-left-color: $primary-color;
   }
-}
 
-.pub-num {
-  flex: 0 0 auto;
-  width: 26px;
-  height: 26px;
-  margin-top: 0.2em;
-  border-radius: 50%;
-  background: $accent-color-dark;
-  color: #fff;
-  font-size: 0.8em;
-  font-weight: 700;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.pub-body {
-  flex: 1;
-  min-width: 0;
+  &::before {
+    counter-increment: pub;
+    content: counter(pub);
+    position: absolute;
+    left: 1em;
+    top: 1em;
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
+    text-align: center;
+    border-radius: 50%;
+    background: $accent-color-dark;
+    color: #fff;
+    font-size: 0.8em;
+    font-weight: 700;
+  }
 
   p {
     margin: 0.15em 0;
@@ -146,11 +143,6 @@
       text-decoration: underline;
     }
   }
-}
-
-.pub-authors {
-  color: $dark-gray;
-  font-size: 0.92em;
 }
 
 .venue-badge {
@@ -188,13 +180,14 @@
   &.q4 { background: #9aa0a6; }
 }
 
-/* Project cards
+/* Project cards — numbered via CSS counter, no markup needed
    ========================================================================== */
 .project-card {
+  position: relative;
   border: 1px solid $border-color;
   border-left: 3px solid $accent-color-dark;
   border-radius: $border-radius;
-  padding: 1em 1.25em 1.1em;
+  padding: 1em 1.25em 1.1em 3.3em;
   margin-bottom: 1.1em;
   background: #fff;
   transition: $global-transition;
@@ -203,50 +196,45 @@
     box-shadow: $box-shadow;
     border-left-color: $primary-color;
   }
-}
 
-.project-card__header {
-  display: flex;
-  align-items: flex-start;
-  gap: 0.7em;
-  margin-bottom: 0.4em;
-}
-
-.project-num {
-  flex: 0 0 auto;
-  width: 26px;
-  height: 26px;
-  margin-top: 0.2em;
-  border-radius: 50%;
-  background: $accent-color-dark;
-  color: #fff;
-  font-size: 0.8em;
-  font-weight: 700;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.project-card h2 {
-  margin: 0;
-  font-size: $type-size-4;
-}
-
-.project-card ul {
-  margin: 0 0 0.7em;
-  padding-left: 1.3em;
-
-  li {
-    margin-bottom: 0.35em;
-    padding-left: 0.2em;
-
-    &::marker {
-      color: $accent-color-dark;
-    }
+  &::before {
+    counter-increment: project;
+    content: counter(project);
+    position: absolute;
+    left: 1.15em;
+    top: 1.15em;
+    width: 26px;
+    height: 26px;
+    line-height: 26px;
+    text-align: center;
+    border-radius: 50%;
+    background: $accent-color-dark;
+    color: #fff;
+    font-size: 0.8em;
+    font-weight: 700;
   }
 
-  li:last-child {
-    margin-bottom: 0;
+  h2 {
+    margin: 0 0 0.5em;
+    font-size: $type-size-4;
+  }
+
+  ul {
+    margin: 0;
+    padding-left: 1.3em;
+
+    li {
+      margin-bottom: 0.35em;
+      padding-left: 0.2em;
+
+      &::marker {
+        color: $accent-color-dark;
+      }
+    }
+
+    li:last-child {
+      margin-bottom: 0;
+    }
   }
 }
 
