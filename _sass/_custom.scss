@@ -1,0 +1,161 @@
+/* ==========================================================================
+   CUSTOM — personal homepage enhancements
+   (added on top of the Minimal Mistakes / academicpages base theme)
+   ========================================================================== */
+
+/* Intro card
+   ========================================================================== */
+.intro-card {
+  background: linear-gradient(135deg, rgba(142, 202, 230, 0.14), rgba(33, 158, 188, 0.05));
+  border: 1px solid $border-color;
+  border-left: 4px solid $accent-color-dark;
+  border-radius: $border-radius;
+  padding: 1.25em 1.5em;
+  margin: 0.5em 0 1.75em;
+
+  p {
+    margin-bottom: 0.6em;
+  }
+
+  p:last-of-type {
+    margin-bottom: 0.75em;
+  }
+}
+
+.quick-facts {
+  list-style: none;
+  margin: 0.75em 0 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em 1.5em;
+  font-size: $type-size-6;
+  color: $dark-gray;
+
+  li {
+    display: flex;
+    align-items: center;
+    gap: 0.4em;
+    white-space: nowrap;
+  }
+
+  a {
+    color: $info-color;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+/* Section headings
+   ========================================================================== */
+.page__content {
+  h1 {
+    display: flex;
+    align-items: center;
+    gap: 0.35em;
+    border-bottom: 2px solid $accent-color;
+    padding-bottom: 0.4em;
+  }
+
+  h2 {
+    color: $info-color;
+  }
+}
+
+/* Timeline list — used for News and Education
+   ========================================================================== */
+.timeline-list {
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    position: relative;
+    padding: 0.4em 0 0.4em 1.25em;
+    margin-bottom: 0.35em;
+    border-left: 2px solid $accent-color;
+
+    &:before {
+      content: '';
+      position: absolute;
+      left: -5px;
+      top: 1.05em;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: $accent-color-dark;
+    }
+  }
+}
+
+/* Publication cards
+   ========================================================================== */
+.pub-card {
+  background: $card-bg;
+  border: 1px solid $border-color;
+  border-left: 3px solid $accent-color-dark;
+  border-radius: $border-radius;
+  padding: 0.85em 1.2em;
+  margin-bottom: 0.75em;
+  transition: $global-transition;
+
+  &:hover {
+    box-shadow: $box-shadow;
+    border-left-color: $primary-color;
+  }
+
+  p {
+    margin: 0.15em 0;
+  }
+}
+
+.venue-badge {
+  display: inline-block;
+  padding: 0.08em 0.65em;
+  margin-left: 0.35em;
+  font-size: $type-size-7;
+  font-weight: 600;
+  color: #fff;
+  background: $accent-color-dark;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+/* Project cards
+   ========================================================================== */
+.project-card {
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  padding: 1em 1.25em 1.1em;
+  margin-bottom: 1.1em;
+  background: #fff;
+  transition: $global-transition;
+
+  &:hover {
+    box-shadow: $box-shadow;
+  }
+
+  h2 {
+    margin-top: 0;
+  }
+
+  ul {
+    margin-bottom: 0;
+  }
+}
+
+/* Avatar polish
+   ========================================================================== */
+.author__avatar img {
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  transition: $global-transition;
+
+  &:hover {
+    box-shadow: 0 4px 16px rgba(33, 158, 188, 0.25);
+  }
+}
