@@ -250,24 +250,6 @@
   }
 }
 
-.project-status {
-  display: inline-block;
-  padding: 0.15em 0.8em;
-  font-size: $type-size-7;
-  font-weight: 600;
-  border-radius: 999px;
-
-  &.status-progress {
-    background: rgba(232, 163, 61, 0.15);
-    color: #a8720c;
-  }
-
-  &.status-drafting {
-    background: rgba(33, 158, 188, 0.12);
-    color: $info-color;
-  }
-}
-
 /* Avatar polish
    ========================================================================== */
 .author__avatar img {
