@@ -60,35 +60,45 @@ Ultimately, my goal is to generate insights that bridge theory and practice, con
 
 Note: Only published journal articles (in English) here. For other papers, conferences, and presentations, please see my cv.
 
-## Peer-reviewed Journal Articles (N = 10)
+## Peer-reviewed Journal Articles (First or Co-first author; N = 10)
 
-1️⃣0️⃣ [How does gesture mimicry improve children’s memory on spatial information?](https://doi.org/10.1016/j.learninstruc.2026.102388) **Leng, X.**, Wu, Y., Zhang, Q., & Wang, F. (2026) **Learning and Instruction**
+6️⃣ [How does gesture mimicry improve children’s memory on spatial information?](https://doi.org/10.1016/j.learninstruc.2026.102388) 
+**Leng, X.**, Wu, Y., Zhang, Q., & Wang, F. (2026) **Learning and Instruction**
 
-9️⃣ [When labels matter more: Behavioral and eye-tracking evidence on aesthetic judgment of AI-generated and human-created paintings by lay viewers](https://doi.org/10.1177/02762374261441560) Wang, Y. **Leng, X.**(co-first author), He, G., Lin, H. (2026) **Empirical Studies of the Arts**
+5️⃣ [When labels matter more: Behavioral and eye-tracking evidence on aesthetic judgment of AI-generated and human-created paintings by lay viewers](https://doi.org/10.1177/02762374261441560) 
+Wang, Y. **Leng, X.**(co-first author), He, G., Lin, H. (2026) **Empirical Studies of the Arts**
 
-8️⃣ [Beauty lost in AI: Diminished aesthetic judgments of AI paintings among Chinese viewers](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2621277)
+4️⃣ [Beauty lost in AI: Diminished aesthetic judgments of AI paintings among Chinese viewers](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2621277)
 Lin, H., **Leng, X.**(co-first author), Li, Y., & Wang, Y. (2026) **International Journal of Human-Computer Interaction**
 
-7️⃣ [No need for webcams with synchronous online learning](https://doi.org/10.1016/j.learninstruc.2025.102131)
-Zhu, W., **Leng, X.**, Mayer, R. E., & Wang, F. (2025) **Learning and Instruction**
-
-6️⃣ [Eye movement modelling examples as cues to guide attention and improve learning in short or long animations](https://doi.org/10.1111/jcal.13094)
-Wang, F., **Leng, X.**, Kuang, Z., & Zhao, T. (2024) **Journal of Computer Assisted Learning**
-
-5️⃣ [The viewing perspective effect in learning from instructional videos: A replication and neuroimaging extension](https://doi.org/10.1016/j.learninstruc.2024.102004)
+3️⃣ [The viewing perspective effect in learning from instructional videos: A replication and neuroimaging extension](https://doi.org/10.1016/j.learninstruc.2024.102004)
 **Leng, X.**, Zhu, W., Mayer, R. E., & Wang, F. (2024) **Learning and Instruction**
 
-4️⃣ [Role of gesturing onscreen instructors in video lectures: A set of three-level meta-analyses on the embodiment effect](https://doi.org/10.1007/s10648-024-09910-0)
-Li, W., Kuang, Z., **Leng, X.**, Mayer, R. E., & Wang, F. (2024) **Educational Psychology Review**
-
-3️⃣ [How to train students to engage in text-picture integration for multimedia lessons](https://doi.org/10.1111/bjet.13419)
+2️⃣ [How to train students to engage in text-picture integration for multimedia lessons](https://doi.org/10.1111/bjet.13419)
 **Leng, X.**, Wang, F., Mayer, R. E., & Zhao, T. (2024) **British Journal of Educational Technology**
-
-2️⃣ [The effect of different question types on vicarious learning](https://doi.org/10.1080/01443410.2024.2325589)
-Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Peng, S., & Hu, X. (2024) **Educational Psychology**
 
 1️⃣ [Is student learning from a video lecture affected by whether the instructor wears a mask?](https://doi.org/10.1002/acp.4169)
 **Leng, X.**, Wang, F., & Mayer, R. E. (2024) **Applied Cognitive Psychology**
+
+## Peer-reviewed Journal Articles (Other author; N = 6)
+
+6️⃣ [How to evaluate students’ mathematical modeling competencies: Construction and verification of a new evaluation framework for mathematical modeling competencies](https://doi.org/10.1007/s12144-026-09769-0)
+He, G., Lin, H., **Leng, X.**, & Su, A. (2026) **Current Psychology**
+
+5️⃣ [Reciprocal relationships between perceived teachers’ moral grandstanding, self-esteem, and rumination among Chinese primary school students: An RI-CLPM Study](https://doi.org/10.1007/s10964-026-02381-2)
+ Lin, H., Ding, J., **Leng, X.**, He, G., Lin, Y., & Zheng, H. (2026) **Journal of Youth and Adolescence**
+
+4️⃣ [No need for webcams with synchronous online learning](https://doi.org/10.1016/j.learninstruc.2025.102131)
+Zhu, W., **Leng, X.**, Mayer, R. E., & Wang, F. (2025) **Learning and Instruction**
+
+3️⃣ [Eye movement modelling examples as cues to guide attention and improve learning in short or long animations](https://doi.org/10.1111/jcal.13094)
+Wang, F., **Leng, X.**, Kuang, Z., & Zhao, T. (2024) **Journal of Computer Assisted Learning**
+
+2️⃣ [Role of gesturing onscreen instructors in video lectures: A set of three-level meta-analyses on the embodiment effect](https://doi.org/10.1007/s10648-024-09910-0)
+Li, W., Kuang, Z., **Leng, X.**, Mayer, R. E., & Wang, F. (2024) **Educational Psychology Review**
+
+1️⃣ [The effect of different question types on vicarious learning](https://doi.org/10.1080/01443410.2024.2325589)
+Kuang, Z., Jiang, X., Shubeck, K., **Leng, X.**, Li, Y., Zhang, R., Wang, Z., Peng, S., & Hu, X. (2024) **Educational Psychology**
 
 # 📑 Projects 
 
