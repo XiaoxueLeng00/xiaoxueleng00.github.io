@@ -36,7 +36,7 @@ Hi! I'm **Xiaoxue Leng** (冷晓雪). *Xiaoxue* can be read as "snow in the morn
 
 I received my bachelor’s and master’s degrees in Psychology from Central China Normal University. From 2020 to 2024, I worked in the [Learning and Child Development Lab](https://fxwang1.wixsite.com/landcdlab) with [Dr. Fuxing Wang](https://psych.ccnu.edu.cn/info/1132/5162.htm), where I explored how to support learning in technology-based environments and examined the cognitive and metacognitive processes underlying learning. Much of my work involved conducting experiments using methods such as eye-tracking and fNIRS.
 
-I am currently a first-year Ph.D. student in Education (Learning Sciences and Psychological Studies) at UNC Chapel Hill. I work as a research assistant under the supervision of [Dr. Matt Bernacki](https://ed.unc.edu/people/matt-bernacki/). My research focuses on understanding students’ self-regulated learning behaviors and developing, testing, and implementing effective interventions to support self-regulated learning in real classroom settings.
+I am currently a Ph.D. student in Education (Learning Sciences and Psychological Studies) at UNC Chapel Hill. I work as a research assistant under the supervision of [Dr. Matt Bernacki](https://ed.unc.edu/people/matt-bernacki/). My research focuses on understanding students’ self-regulated learning behaviors and developing, testing, and implementing effective interventions to support self-regulated learning in real classroom settings.
 
 In addition, I collaborate with [Dr. Ziyi Kuang](https://www.researchgate.net/profile/Ziyi-Kuang) to investigate how generative learning activities can support student learning, and with other colleagues to examine the impact of GenAI on students' learning and behaviors.
 
