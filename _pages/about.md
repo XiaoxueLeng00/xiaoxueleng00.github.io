@@ -40,22 +40,6 @@ I am currently a Ph.D. student in Education (Learning Sciences and Psychological
 
 In addition, I collaborate with [Dr. Ziyi Kuang](https://www.researchgate.net/profile/Ziyi-Kuang) to investigate how generative learning activities can support student learning, and with other colleagues to examine the impact of GenAI on students' learning and behaviors.
 
-## Research Interests
-
-***How to help students learn more effectively?*** This question drives my research.
-
-Early in my work, I believed the answer lay in improving instructional design, identifying effective learning strategies, and training students to use these strategies. Through a series of controlled experiments, I found that students could benefit from applying these strategies in the laboratory. But a recurring pattern troubled me: students often reported being unwilling to use these strategies in their everyday learning. Effective strategies existed, yet students rarely applied them outside the lab.
-
-This gap between knowing and doing became the central puzzle of my research. It pushed me to ask harder questions: What holds students back from applying what they have learned? How do cognitive, motivational, and contextual factors shape whether students choose to regulate their own learning in authentic settings? And how can we design interventions that are not just effective in controlled conditions, but sustainable in real educational environments?
-
-These questions brought me to UNC Chapel Hill, where my work has shifted from the controlled environment of the laboratory to the complexity of real classrooms. I now study how students engage with learning strategies in authentic educational contexts, using multi-wave field studies, learning management system data, and digital trace data to understand how learning unfolds over time. I am particularly interested in self-regulated learning: how students plan, monitor, and adapt their approaches to learning, and what supports or undermines these processes in practice.
-
-A growing focus of my work is how students learn with AI. As generative AI tools become embedded in academic workflows, new questions have emerged about how students interact with these tools, when AI use supports learning and when it substitutes for it, and how we can help students develop the metacognitive skills to use AI strategically rather than dependently. I am currently involved in research and grant development aimed at advancing the science of learning to learn with AI.
-
-Ultimately, my goal is to generate insights that bridge theory and practice, contributing to learning sciences research while providing evidence-based guidance for educators navigating an increasingly AI-rich world.
-
-*This section was drafted by me and polished with the assistance of Claude (Sonnet 4.6).*
-
 # 🔥 News
 
 <div class="timeline-list" markdown="1">
