@@ -51,7 +51,13 @@ In addition, I collaborate with [Dr. Ziyi Kuang](https://www.researchgate.net/pr
 
 Note: Only published journal articles (in English) here. For other papers, conferences, and presentations, please see my CV.
 
-## Peer-reviewed Journal Articles (First or Co-first author; N = 6)
+## Peer-reviewed Journal Articles (First or Co-first author; N = 7)
+
+<div class="pub-card" markdown="1">
+**[The effects of depth and placement of prequestions on video learning](https://doi.org/10.1016/j.iheduc.2026.101118)**
+
+Kuang, Z., & **Leng, X.** (co-first author) (2026) <span class="venue-badge">The Internet and Higher Education</span> <span class="if-tag">IF 10.6</span> <span class="quartile-tag q1">Q1 · 2025</span>
+</div>
 
 <div class="pub-card" markdown="1">
 **[How does gesture mimicry improve children’s memory on spatial information?](https://doi.org/10.1016/j.learninstruc.2026.102388)**
