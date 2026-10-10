@@ -57,7 +57,7 @@ Note: Only published journal articles (in English) here. For other papers, confe
 <div class="pub-card" markdown="1">
 **[The effects of depth and placement of prequestions on video learning](https://doi.org/10.1016/j.iheduc.2026.101118)**
 
-Kuang, Z., & **Leng, X.** (co-first author) (2026) <span class="venue-badge">The Internet and Higher Education</span> <span class="if-tag">IF 10.6</span> <span class="quartile-tag q1">Q1 · 2025</span>
+Kuang, Z., & **Leng, X.** (co-first author) (2027) <span class="venue-badge">The Internet and Higher Education</span> <span class="if-tag">IF 10.6</span> <span class="quartile-tag q1">Q1 · 2025</span>
 </div>
 
 <div class="pub-card" markdown="1">
