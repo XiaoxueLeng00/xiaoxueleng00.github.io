@@ -43,6 +43,7 @@ In addition, I collaborate with [Dr. Ziyi Kuang](https://www.researchgate.net/pr
 # 🔥 News
 
 <div class="timeline-list" markdown="1">
+- *2026.10* &nbsp;🎉 A new work has been published in **The Internet and Higher Education**. We found that deep interspersed prequestions may yield the highest near transfer performance. [Read the paper →](https://doi.org/10.1016/j.iheduc.2026.101118)
 - *2026.05* &nbsp;🎉 A new publication! My final paper from my master's work has been published in **Learning and Instruction**. We found that gesture mimicry enhanced 4–5-year-olds' memory of spatial information, and higher gesture-content mapping led to better memory performance. [Read the paper →](https://doi.org/10.1016/j.learninstruc.2026.102388)
 - *2026.03* &nbsp;🎉 New publication alert! Our team investigated how contextual factors influence people's perception of AI-created paintings. [Read the paper →](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2621277)
 </div>
