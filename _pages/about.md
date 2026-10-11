@@ -69,13 +69,13 @@ Kuang, Z., & **Leng, X.\*\#** (2027) <span class="venue-badge">The Internet and 
 <div class="pub-card" markdown="1">
 **[When labels matter more: Behavioral and eye-tracking evidence on aesthetic judgment of AI-generated and human-created paintings by lay viewers](https://doi.org/10.1177/02762374261441560)**
 
-Wang, Y. **Leng, X.\*** , He, G., Lin, H. (2026) <span class="venue-badge">Empirical Studies of the Arts</span> <span class="if-tag">IF 1.5</span> <span class="quartile-tag q3">Q3 · 2025</span>
+Wang, Y. **Leng, X.\***, He, G., Lin, H. (2026) <span class="venue-badge">Empirical Studies of the Arts</span> <span class="if-tag">IF 1.5</span> <span class="quartile-tag q3">Q3 · 2025</span>
 </div>
 
 <div class="pub-card" markdown="1">
 **[Beauty lost in AI: Diminished aesthetic judgments of AI paintings among Chinese viewers](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2621277)**
 
-Lin, H., **Leng, X.\*** , Li, Y., & Wang, Y. (2026) <span class="venue-badge">International Journal of Human-Computer Interaction</span> <span class="if-tag">IF 6.1</span> <span class="quartile-tag q1">Q1 · 2025</span>
+Lin, H., **Leng, X.\***, Li, Y., & Wang, Y. (2026) <span class="venue-badge">International Journal of Human-Computer Interaction</span> <span class="if-tag">IF 6.1</span> <span class="quartile-tag q1">Q1 · 2025</span>
 </div>
 
 <div class="pub-card" markdown="1">
